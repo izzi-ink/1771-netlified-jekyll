@@ -4,18 +4,12 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  This is an experiment to apply the principles of design systems to my personal and professional life. A personal design system helps me live my life with integrity according to my personal strengths, values and skills.
 ---
 
 # 1771: A Personal Design System
 
-![design-develop](./graphics/png/badger-izzi-font.png)
-
-This is an experiment to apply the principles of design systems to my personal and professional life. A personal design system helps me live my life with integrity according to my personal strengths, values and skills.
+![design-develop](../assets/img/uploads/izzi-badger-full-length.png)
 
 ## Core Values
 
@@ -31,6 +25,6 @@ I can only live my life when I am aware of my intention and subsequent purpose. 
 
 It takes courage to say: "I don't know" -- it means that you are not scared to show vulnerability. To be truly open to life and new possibilities and solutions to problem, one should never stop learning and one should always have the courage to say: "I don't know, can you help me?"
 
-### Love of learning 
+### Love of learning
 
 I am motivated by acquiring new skills and constantly changing and adapting. I like to move, and adapt. Life's meaning is in learning and teaching. It is the only way to grow and evolve. The greatest gift from one human being to another is to share what you have learnt. You can only prove what you have learnt and mastered by teaching. I am always ready to learn, and therefore always available to teach.
