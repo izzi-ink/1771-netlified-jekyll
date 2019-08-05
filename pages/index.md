@@ -9,7 +9,8 @@ intro_paragraph: >
 
 # 1771: A Personal Design System
 
-![design-develop](../assets/img/uploads/badger-izzi-font.png)
+<img src="../assets/img/uploads/badger-izzi-font.png" alt="drawing" width="200"/>
+
 
 ## Core Values
 
