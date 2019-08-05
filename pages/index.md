@@ -9,7 +9,8 @@ intro_paragraph: >
 
 # 1771: A Personal Design System
 
-![design-develop](../assets/img/uploads/badger.png)
+<img src="../assets/img/uploads/badger.png" alt="Atomic Badger!"
+	title="A cute Badger" width="144" height="186" />
 
 ## Core Values
 
