@@ -265,105 +265,55 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 
  I am responsible for performing the following duties:
 
-```
 Facilitation of cross-functional teams and deliverables that concern UI items;
-```
 
-```
 Provide technical expertise to the BA, UI Analyst, design teams and quality assurance teams;
-```
 
-```
 I take responsibility for all UI design artifactss across the entire SDLC process;
-```
 
-```
 I own the Key Performance Indicators for the iCBS Design System as Product;
-```
 
-```
 I manage the  Sprint Backlog for UI project deliverables;
-```
 
-```
 I keep an eye on the ways of work and interlocking processes, relating to front-end design;
-```
 
-```
 I monitor and document standards and ways of work playbooks;
-```
 
-```
 I actively keep abreast of new technology and tools and make this available to teams;
-```
 
-```
 I play an active role in facilitation between the SARS Customer Experience Team, Interfront and the SARS Business Systems Unit;
-```
 
-```
 I run daily stand-ups with the UI Analyst Team and represent the team at various project standups;
-```
 
-```
 I assist the UI Analyst and Development team with  interpretation of use cases and requirements by distilling and summarising core requirements;
-```
 
-```
 Stimulate and improve collaboration between individuals and teams;
-```
 
-```
 Run regular skill sharing workshops on Fridays "Coding Fridays";
-```
 
-```
 Share and coach on best practices;
-```
 
-```
 Prepare checkin progress reports to the Operations Director;
-```
 
-```
 Prepare project reports for the weekly progress check-in sessions with the Operations Director;
-```
 
-```
 Coordinate activities to ensure consistencies between User Interfaces and component design for all solutions in the iCBS Solution suite;
-```
 
-```
 I am responsible to ensure continuous improvement in delivery of design artefacts delivered to BA and Dev Team;  
-```
 
-```
 I Ensure Improved value add to Functional Requirement Specifications,  Software (System) Requirement Specifications and Architecture Design Specifications, in the form of a UI-spec / Addendum to other specifications; 
-```
 
-```
 Assist with the functional decomposition of system features; 
-```
 
-```
 Assist the UX-UI Team with component audits;
-```
 
-```
 I assist with analysis required for ECPs (Engineering Change Proposals), i.e. Change Requests;
-```
 
-```
 I am responsible for providing an overview of the Interfront Customs and Border Solution (iCBS) Product Suite for new staff;
-```
 
-```
 I am responsible for writing the usability test cases for all User Interfaces;
-```
 
-```
 I am responsible to actively monitor DevOps and QA processes and initiatives to advocate the role of UX-UI in cross-cutting disciplines;
-```
 
 #### Completed Projects in role as Senior BA
 
