@@ -16,11 +16,11 @@ I am looking for an opportunity where my design thinking, technical and analytic
 
 ## Strengths
 
-  * Versatility
-  * Creativity
-  * Analytical
-  * Love of Learning
-  * Perseverance
+    * Versatility
+    * Creativity
+    * Analytical
+    * Love of Learning
+    * Perseverance
 
 I am versatile and able to perform more than one role within the scope of a single project. Creativity is a core strength, complimentary to my analytical and logical approach to solving problems.
 
@@ -28,12 +28,12 @@ I persist through challenges and setbacks by staying creative and learning.
 
 ## Values
 
-  * Kindness
-  * Authenticity
-  * Courageousness
-  * Knowledge
-  * Wisdom
-  * Reliability
+    * Kindness
+    * Authenticity
+    * Courageousness
+    * Knowledge
+    * Wisdom
+    * Reliability
 
 ## Skills
 
@@ -69,11 +69,9 @@ While I have a keen interest in all matters related to architecture, I have focu
 
 To future proof my career, I am keen to complete a few short courses or diplomas in Human Computer Interaction and or Design Thinking. I am particularly interested in the impact of AI on UX, and am keen to look at human interaction with machine intelligence.
 
----
+## Formal Education
 
-## Formal Education 
-
-### **Bachelor of Arts**
+### Bachelor of Arts
 
 #### University of Pretoria, Pretoria, Gauteng
 
@@ -98,24 +96,24 @@ UCT Centre for Continued Education, Engineering Faculty, Cape Town, Western Cape
 
 #### Institution
 
-  * Software Futures, Johannesburg, Gauteng
+    * Software Futures, Johannesburg, Gauteng
 
 This IBM Short Course focused mainly on the role of the Software Architect in the SDLC.
 
 The following topics were covered:
 
-  * RUP Methodology
-  * MDA (Model Driven Architecture);
-  * Design Patterns (The Gang of Four);
-  * Modeling Software Solutions with UML 2.0 and
-  * Using Views to communicate solutions architecture.
+    * RUP Methodology
+    * MDA (Model Driven Architecture);
+    * Design Patterns (The Gang of Four);
+    * Modeling Software Solutions with UML 2.0 and
+    * Using Views to communicate solutions architecture.
 
 This course prepared me to work as junior architect and applying the UML. I was introduced to Design Patterns and Object Oriented Analysis and Design.  
 
 ### Business Analysis using UML and URDAD ca. 2008
 
-  * Solms Institute,  Johannesburg, Gauteng
-  * Mentor: Dr. Fritz Solms
+    * Solms Institute,  Johannesburg, Gauteng
+    * Mentor: Dr. Fritz Solms
 
 This course focused mainly on Use Case driven Design, Analysis and Development. URDAD promotes a methodology for the modeling and design of SOA solutions, via service contracts. The key benefit of the methodology is the algorithm for managing requirements at the appropriate level of detail.
 
@@ -123,8 +121,8 @@ This course prepared me to work as analyst and architect, focusing on SOA.
 
 ### TOGAF 9: ca. 2010
 
-  * Real IRM
-  * Trainer and mentor: Louw Labuschagne
+    * Real IRM
+    * Trainer and mentor: Louw Labuschagne
 
 I completed the course and obtained Foundation Level certification for TOGAF 9.
 During this time I was actively involved in group discussions and a member of the Enterprise Architecture Research Forum, (EARF), at the Meraka Institute.
@@ -140,17 +138,17 @@ This short course equipped me with a theoretical overview of SOA Design Patterns
 
 ### Leadership Training and Development Short Course: ca. 2008
 
-  * Futuristic Training and Development, Johannesburg, Gauteng
-  * Trainer and Mentor: Marilyn Querend 
+    * Futuristic Training and Development, Johannesburg, Gauteng
+    * Trainer and Mentor: Marilyn Querend 
 
 This course covered the following skill-set, which I apply on a daily basis:
 
-  * Business ethics and trust;
-  * Communications skills; 
-  * Time management;
-  * Creative problem solving 
-  * Building and maintaining positive interpersonal relationships;
-  * Listening skills;
+    * Business ethics and trust;
+    * Communications skills; 
+    * Time management;
+    * Creative problem solving 
+    * Building and maintaining positive interpersonal relationships;
+    * Listening skills;
 
 This course prepared me to work as team lead and in mid-management.
 
@@ -160,14 +158,12 @@ In conjunction with my studies in Psychology it has equipped me with the skills 
 
 This hands-on course, presented by Kwelenga, provided practical workshop scenarios to apply conflict resolution, assertiveness and leading with empathy.
 
----
-
 ## Work Experience
 
 ### Current Position: Senior Business Analyst at Interfront SOC Ltd.
 
-  * Interfront, Somerset West, Western Cape
-  * August 2011 – present
+    * Interfront, Somerset West, Western Cape
+    * August 2011 – present
 
 #### Summary
 
