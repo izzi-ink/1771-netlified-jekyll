@@ -16,11 +16,11 @@ I am looking for an opportunity where my design thinking, technical and analytic
 
 ## Strengths
 
-* Versatility
-* Creativity
-* Analytical
-* Love of Learning
-* Perseverance
+  * Versatility
+  * Creativity
+  * Analytical
+  * Love of Learning
+  * Perseverance
 
 I am versatile and able to perform more than one role within the scope of a single project. Creativity is a core strength, complimentary to my analytical and logical approach to solving problems.
 
@@ -28,12 +28,12 @@ I persist through challenges and setbacks by staying creative and learning.
 
 ## Values
 
-* Kindness
-* Authenticity
-* Courageousness
-* Knowledge
-* Wisdom
-* Reliability
+  * Kindness
+  * Authenticity
+  * Courageousness
+  * Knowledge
+  * Wisdom
+  * Reliability
 
 ## Skills
 
@@ -98,24 +98,24 @@ UCT Centre for Continued Education, Engineering Faculty, Cape Town, Western Cape
 
 #### Institution
 
-* Software Futures, Johannesburg, Gauteng
+  * Software Futures, Johannesburg, Gauteng
 
 This IBM Short Course focused mainly on the role of the Software Architect in the SDLC.
 
 The following topics were covered:
 
-* RUP Methodology
-* MDA (Model Driven Architecture);
-* Design Patterns (The Gang of Four);
-* Modeling Software Solutions with UML 2.0 and
-* Using Views to communicate solutions architecture.
+  * RUP Methodology
+  * MDA (Model Driven Architecture);
+  * Design Patterns (The Gang of Four);
+  * Modeling Software Solutions with UML 2.0 and
+  * Using Views to communicate solutions architecture.
 
 This course prepared me to work as junior architect and applying the UML. I was introduced to Design Patterns and Object Oriented Analysis and Design.  
 
 ### Business Analysis using UML and URDAD ca. 2008
 
-* Solms Institute,  Johannesburg, Gauteng
-* Mentor: Dr. Fritz Solms
+  * Solms Institute,  Johannesburg, Gauteng
+  * Mentor: Dr. Fritz Solms
 
 This course focused mainly on Use Case driven Design, Analysis and Development. URDAD promotes a methodology for the modeling and design of SOA solutions, via service contracts. The key benefit of the methodology is the algorithm for managing requirements at the appropriate level of detail.
 
@@ -123,8 +123,8 @@ This course prepared me to work as analyst and architect, focusing on SOA.
 
 ### TOGAF 9: ca. 2010
 
-* Real IRM
-* Trainer and mentor: Louw Labuschagne
+  * Real IRM
+  * Trainer and mentor: Louw Labuschagne
 
 I completed the course and obtained Foundation Level certification for TOGAF 9.
 During this time I was actively involved in group discussions and a member of the Enterprise Architecture Research Forum, (EARF), at the Meraka Institute.
@@ -140,17 +140,17 @@ This short course equipped me with a theoretical overview of SOA Design Patterns
 
 ### Leadership Training and Development Short Course: ca. 2008
 
-* Futuristic Training and Development, Johannesburg, Gauteng
-* Trainer and Mentor: Marilyn Querend 
+  * Futuristic Training and Development, Johannesburg, Gauteng
+  * Trainer and Mentor: Marilyn Querend 
 
 This course covered the following skill-set, which I apply on a daily basis:
 
-* Business ethics and trust;
-* Communications skills; 
-* Time management;
-* Creative problem solving 
-* Building and maintaining positive interpersonal relationships;
-* Listening skills;
+  * Business ethics and trust;
+  * Communications skills; 
+  * Time management;
+  * Creative problem solving 
+  * Building and maintaining positive interpersonal relationships;
+  * Listening skills;
 
 This course prepared me to work as team lead and in mid-management.
 
@@ -166,8 +166,8 @@ This hands-on course, presented by Kwelenga, provided practical workshop scenari
 
 ### Current Position: Senior Business Analyst at Interfront SOC Ltd.
 
-* Interfront, Somerset West, Western Cape
-* August 2011 – present
+  * Interfront, Somerset West, Western Cape
+  * August 2011 – present
 
 #### Summary
 
@@ -183,126 +183,126 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 
  I am responsible for performing the following duties:
 
-* Facilitation of cross-functional teams and deliverables that concern UI items;
-* Provide technical expertise to the BA, UI Analyst, design teams and quality assurance teams;
-* I take responsibility for all UI design artifactss across the entire SDLC process;
-* I own the Key Performance Indicators for the iCBS Design System as Product;
-* I manage the  Sprint Backlog for UI project deliverables;
-* I keep an eye on the ways of work and interlocking processes, relating to front-end design;
-* I monitor and document standards and ways of work playbooks;
-* I actively keep abreast of new technology and tools and make this available to teams;
-* I play an active role in facilitation between the SARS Customer Experience Team, Interfront and the SARS Business Systems Unit;
-* I run daily stand-ups with the UI Analyst Team and represent the team at various project standups;
-* I assist the UI Analyst and Development team with  interpretation of use cases and requirements by distilling and summarising core requirements;
-* Stimulate and improve collaboration between individuals and teams;
-* Run regular skill sharing workshops on Fridays "Coding Fridays";
-* Share and coach on best practices;
-* Prepare checkin progress reports to the Operations Director;
-* Prepare project reports for the weekly progress check-in sessions with the Operations Director;
-* Coordinate activities to ensure consistencies between User Interfaces and component design for all solutions in the iCBS Solution suite;
-* I am responsible to ensure continuous improvement in delivery of design artefacts delivered to BA and Dev Team;  
-* I Ensure Improved value add to Functional Requirement Specifications,  Software (System) Requirement Specifications and Architecture Design Specifications, in the form of a UI-spec / Addendum to other specifications; 
-* Assist with the functional decomposition of system features; 
-* Assist the UX-UI Team with component audits;
-* I assist with analysis required for ECPs (Engineering Change Proposals), i.e. Change Requests;
-* I am responsible for providing an overview of the Interfront Customs and Border Solution (iCBS) Product Suite for new staff;
-* I am responsible for writing the usability test cases for all User Interfaces;
-* I am responsible to actively monitor DevOps and QA processes and initiatives to advocate the role of UX-UI in cross-cutting disciplines;
+  * Facilitation of cross-functional teams and deliverables that concern UI items;
+  * Provide technical expertise to the BA, UI Analyst, design teams and quality assurance teams;
+  * I take responsibility for all UI design artifactss across the entire SDLC process;
+  * I own the Key Performance Indicators for the iCBS Design System as Product;
+  * I manage the  Sprint Backlog for UI project deliverables;
+  * I keep an eye on the ways of work and interlocking processes, relating to front-end design;
+  * I monitor and document standards and ways of work playbooks;
+  * I actively keep abreast of new technology and tools and make this available to teams;
+  * I play an active role in facilitation between the SARS Customer Experience Team, Interfront and the SARS Business Systems Unit;
+  * I run daily stand-ups with the UI Analyst Team and represent the team at various project standups;
+  * I assist the UI Analyst and Development team with  interpretation of use cases and requirements by distilling and summarising core requirements;
+  * Stimulate and improve collaboration between individuals and teams;
+  * Run regular skill sharing workshops on Fridays "Coding Fridays";
+  * Share and coach on best practices;
+  * Prepare checkin progress reports to the Operations Director;
+  * Prepare project reports for the weekly progress check-in sessions with the Operations Director;
+  * Coordinate activities to ensure consistencies between User Interfaces and component design for all solutions in the iCBS Solution suite;
+  * I am responsible to ensure continuous improvement in delivery of design artefacts delivered to BA and Dev Team;  
+  * I Ensure Improved value add to Functional Requirement Specifications,  Software (System) Requirement Specifications and Architecture Design Specifications, in the form of a UI-spec / Addendum to other specifications; 
+  * Assist with the functional decomposition of system features; 
+  * Assist the UX-UI Team with component audits;
+  * I assist with analysis required for ECPs (Engineering Change Proposals), i.e. Change Requests;
+  * I am responsible for providing an overview of the Interfront Customs and Border Solution (iCBS) Product Suite for new staff;
+  * I am responsible for writing the usability test cases for all User Interfaces;
+  * I am responsible to actively monitor DevOps and QA processes and initiatives to advocate the role of UX-UI in cross-cutting disciplines;
 
 #### Completed Projects in role as Senior BA
 
- * SARS Tariff Management System (2012 to 2013);
- * Import Control System for Customs Office of Luxembourg: ICS (2013 to 2014);
+  * SARS Tariff Management System (2012 to 2013);
+  * Import Control System for Customs Office of Luxembourg: ICS (2013 to 2014);
 
 #### Projects in role as UX-UI Team Coordinator
 
- * iCBS UI Design Standards and Guidelines (*concluded*);
- * iCBS Living Style Guide, a technical artifact UI Component Explorer (*concluded*);
- * Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (*ongoing*);
- * Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (*ongoing*);
- * Coordinate UI Deliverables for Customs Support Portal (*ongoing*);
- * Usability Test Designs for end-user engagement sessions;
- * User Satisfaction Survey Design;
- * Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (*concluded*). 
+  * iCBS UI Design Standards and Guidelines (*concluded*);
+  * iCBS Living Style Guide, a technical artifact UI Component Explorer (*concluded*);
+  * Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (*ongoing*);
+  * Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (*ongoing*);
+  * Coordinate UI Deliverables for Customs Support Portal (*ongoing*);
+  * Usability Test Designs for end-user engagement sessions;
+  * User Satisfaction Survey Design;
+  * Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (*concluded*)
 
 #### Projects in role as Enterprise Business Analyst and in Project Management
 
-* Intern Program Design (*Lead and ongoing consultant*);
-* UX-UI Design System (*Product Owner*);
-* Organisational Competency Framework (*Project Manager for Skills Framework Initiative*);
+  * Intern Program Design (*Lead and ongoing consultant*);
+  * UX-UI Design System (*Product Owner*);
+  * Organisational Competency Framework (*Project Manager for Skills Framework Initiative*);
 
 #### Active Projects as UX-UI Team Coordinator
 
-* iCBS Design System;
-* Project Manager of the Skills Framework (Competency Framework) Project;
-* Customs Trader Portal: Registration Licensing and Accreditation;
-* Customs Operations Portal: Reporting and Conveyances of Goods;
-* Customs Support Portal;
+  * iCBS Design System;
+  * Project Manager of the Skills Framework (Competency Framework) Project;
+  * Customs Trader Portal: Registration Licensing and Accreditation;
+  * Customs Operations Portal: Reporting and Conveyances of Goods;
+  * Customs Support Portal;
   
 #### Skills used at Interfront:
 
 #### Analysis Design and Architecture
 
-* Requirements elicitation and documentation;
-* UML Modeling;
-* Low-fidelity UI Design: Wireframes;
-* High-fidelity Prototypes: Adobe XD Detail Design;
-* Workshop facilitation;
+  * Requirements elicitation and documentation;
+  * UML Modeling;
+  * Low-fidelity UI Design: Wireframes;
+  * High-fidelity Prototypes: Adobe XD Detail Design;
+  * Workshop facilitation;
   
 #### Software Engineering and Programming Skills
 
-* HTML5; (*proficient*)
-* CSS3; (*competent*)
-* Bootstrap; (*novice*)
-* AngularJS; (*novice*)
-* Angular 5.2.5 (*beginner*)
-* SPA Design (*General Understanding and Architecture*)
-* Java; (*Coaching and Mentoring Graduate Interns in Java Fundamentals*) 
-* REST API Design using Swagger (*Investigating tool to assist Back-end Dev Teams with API Design*)
-* Spring Boot (*coaching Graduate Interns in collaboration with Development Team Leads*)
-* NodeJS (*beginner*)
-* Modern Web Front-end tools (*Solid understanding of Task Runners, Package Managers and Test Suites*)
+  * HTML5; (*proficient*)
+  * CSS3; (*competent*)
+  * Bootstrap; (*novice*)
+  * AngularJS; (*novice*)
+  * Angular 5.2.5 (*beginner*)
+  * SPA Design (*General Understanding and Architecture*)
+  * Java; (*Coaching and Mentoring Graduate Interns in Java Fundamentals*) 
+  * REST API Design using Swagger (*Investigating tool to assist Back-end Dev Teams with API Design*)
+  * Spring Boot (*coaching Graduate Interns in collaboration with Development Team Leads*)
+  * NodeJS (*beginner*)
+  * Modern Web Front-end tools (*Solid understanding of Task Runners, Package Managers and Test Suites*)
 
 #### Tools and Technology
 
-* Sparx Enterprise Architect (*I used it for UML Modeling*);
-* Atlassian Product Suite (*JIRA, Confluence and Stash for Git*);
-* Balsamiq (*I occasionally use it for the creation of wireframes*);
-* Adobe XD; (*I use it to review and clean-up high-fidelity design mock-ups*);
-* Sketch (*reviewing as Adobe XD alternative for design and prototyping*);
-* Git (*I actively use Git for version control, we use the Git Flow process*);
-* IntelliJ (*Occasionally use as IDE when reviewing code*);
-* VS Code (*My preferred IDE, for writing HTML, CSS and JS and MarkDown, previously used Atom*);
+  * Sparx Enterprise Architect (*I used it for UML Modeling*);
+  * Atlassian Product Suite (*JIRA, Confluence and Stash for Git*);
+  * Balsamiq (*I occasionally use it for the creation of wireframes*);
+  * Adobe XD; (*I use it to review and clean-up high-fidelity design mock-ups*);
+  * Sketch (*reviewing as Adobe XD alternative for design and prototyping*);
+  * Git (*I actively use Git for version control, we use the Git Flow process*);
+  * IntelliJ (*Occasionally use as IDE when reviewing code*);
+  * VS Code (*My preferred IDE, for writing HTML, CSS and JS and MarkDown, previously used Atom*);
 
 #### Thought Leadership
 
-* Graduate Intern Program Design;
-* IntelliLab (*Hobby club, for MAKERS, 3D Printing, Arduino and RasberriPi tinkering*);
-* Skills Framework initiative; 
-* Business process improvement;
-* Developer and Design Advocate: Emerging technology monitoring;
+  * Graduate Intern Program Design;
+  * IntelliLab (*Hobby club, for MAKERS, 3D Printing, Arduino and RasberriPi tinkering*);
+  * Skills Framework initiative; 
+  * Business process improvement;
+  * Developer and Design Advocate: Emerging technology monitoring;
 
 #### Soft skills used at Interfront 
 
-* Mentoring and Coaching;
-* Workshop facilitation;
-* Methodologies, templates and tool set development;
-* Software Development Process Improvement;
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management;
+  * Mentoring and Coaching;
+  * Workshop facilitation;
+  * Methodologies, templates and tool set development;
+  * Software Development Process Improvement;
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management;
 
 #### Personal learning and R&D initiatives
 
- * CRUD app with Apollo, GraphQL, NodeJs, Express, MongoDB;
- * React;
- * VUE;
- * ES6: JS Refresher Courses;
- * TypeScript;
- * SVG Animation; 
- * StoryBook for Angular;
- * Jest/Puppeteer.
+  * CRUD app with Apollo, GraphQL, NodeJs, Express, MongoDB;
+  * React;
+  * VUE;
+  * ES6: JS Refresher Courses;
+  * TypeScript;
+  * SVG Animation; 
+  * StoryBook for Angular;
+  * Jest/Puppeteer.
 
 ---
 
@@ -322,40 +322,40 @@ At my own initiative I worked on a strategy for the CSIR that pertain to the man
 
 #### General Projects
 
-* Requirements Analysis for a Web Sites and Services 
-* Implementation of a Web Content Management Solution for testing purposes and analysis;
-* High Level Digital Media Strategy documentation for the CSIR;
-* Skills Framework development for ICT, (based on the SFIA Framework).
-* Documentation of the as-is Architecture for the ICT Applications domain;
-* Modeling the improved Service Management processes in BPMN.
+  * Requirements Analysis for a Web Sites and Services 
+  * Implementation of a Web Content Management Solution for testing purposes and analysis;
+  * High Level Digital Media Strategy documentation for the CSIR;
+  * Skills Framework development for ICT, (based on the SFIA Framework).
+  * Documentation of the as-is Architecture for the ICT Applications domain;
+  * Modeling the improved Service Management processes in BPMN.
 
  #### Skills applied at the CSIR
 
-* Skills Framework assessment;
-* UML Modeling;
-* BPMN Modeling ;
-* PHP Development ;
-* Relational Database Design and Development;
-* Mentoring;
-* Conflict resolution
-* Training and
-* Workshop Facilitation.
+  * Skills Framework assessment;
+  * UML Modeling;
+  * BPMN Modeling ;
+  * PHP Development ;
+  * Relational Database Design and Development;
+  * Mentoring;
+  * Conflict resolution
+  * Training and
+  * Workshop Facilitation.
 
 #### Enterprise Architecture and leadership
 
-* Skills Framework initiative
-* Applications Architecture Portfolio model;
-* Enterprise Architecture repository development.
-* Business process improvement;
-* Information Content Publishing ;
-* Emerging technology monitoring (as it applies to technology for media houses);
-* Methodologies, templates and tool set development;
-* Software Development Process Improvement
-* Application of ITIL Governance standards;
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management. 
+  * Skills Framework initiative
+  * Applications Architecture Portfolio model;
+  * Enterprise Architecture repository development.
+  * Business process improvement;
+  * Information Content Publishing ;
+  * Emerging technology monitoring (as it applies to technology for media houses);
+  * Methodologies, templates and tool set development;
+  * Software Development Process Improvement
+  * Application of ITIL Governance standards;
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management. 
 
 ---
 
@@ -363,8 +363,8 @@ At my own initiative I worked on a strategy for the CSIR that pertain to the man
 
 ### Vodacom SA, Midrand, Gauteng
 
-* (Contracted to Vodacom via Intervate Solutions)
-* September 2008 – December 2008
+  * (Contracted to Vodacom via Intervate Solutions)
+  * September 2008 – December 2008
 
 #### Summary
 
@@ -374,19 +374,19 @@ I subsequently delivered: Business Requirement Specification and a complete Busi
 
 #### Project Completed
 
-* BRS and associated models for CAPEX AP Document Management 
+  * BRS and associated models for CAPEX AP Document Management 
 
 #### Skills applied at the Vodacom
 
-* UML Modeling;
-* BPMN Modeling ;
-* JAD Session facilitation.
+  * UML Modeling;
+  * BPMN Modeling ;
+  * JAD Session facilitation.
 
 #### Reasons for Leaving
 
-* Project was completed successfully;
-* CSIR in Pretoria offered me a position as Senior Systems Analyst;
-* Commute between Johannesburg and Pretoria was time-consuming
+  * Project was completed successfully;
+  * CSIR in Pretoria offered me a position as Senior Systems Analyst;
+  * Commute between Johannesburg and Pretoria was time-consuming
 
 ---
 
@@ -402,83 +402,83 @@ I was appointed as Systems Analyst and subsequently promoted to Web Development 
 
 #### Legal Database Systems Analysis
 
-* Responsible for assessment of the As-is situation;
-* Responsible for JAD Sessions to elicit requirements
-* Documentation of Requirements and Risk Analysis 
-* Advising Business to invest in possible third party solutions to meet the requirements
-* Facilitate Internet Media Law requirements as they pertain to the Legal Database Requirements
+  * Responsible for assessment of the As-is situation;
+  * Responsible for JAD Sessions to elicit requirements
+  * Documentation of Requirements and Risk Analysis 
+  * Advising Business to invest in possible third party solutions to meet the requirements
+  * Facilitate Internet Media Law requirements as they pertain to the Legal Database Requirements
 
 #### Web News Service Projects
 
-* Business and Systems Analysis
-* Use Case Analysis 
-* Usability Enhancement for Graphical User Interface 
-* Documentation of Requirements and Risk Analysis 
-* Advising Business to digital strategy
-* Writing of Impact Analysis documentation
-* Project facilitation and communication
+  * Business and Systems Analysis
+  * Use Case Analysis 
+  * Usability Enhancement for Graphical User Interface 
+  * Documentation of Requirements and Risk Analysis 
+  * Advising Business to digital strategy
+  * Writing of Impact Analysis documentation
+  * Project facilitation and communication
 
 #### Avusa Strategic Projects
 
-* Business Analysis and requirements gathering
-* Advising Nu Metro and other business units to their digital strategies 
-* Project Management of existing digital strategies as they pertain to Nu Metro
-* Facilitation of JAD Sessions with business owners 
-* Requirements elicitation and business rules 
-* Translation of requirements into technologically independent UML models
+  * Business Analysis and requirements gathering
+  * Advising Nu Metro and other business units to their digital strategies 
+  * Project Management of existing digital strategies as they pertain to Nu Metro
+  * Facilitation of JAD Sessions with business owners 
+  * Requirements elicitation and business rules 
+  * Translation of requirements into technologically independent UML models
 
 #### Managerial Responsibilities and Initiatives
 
-* Skills training and Knowledge Transfer Sessions on a weekly basis
-* Web Development Management on an ad hoc basis
-* Knowledge workshops of apprentice journalists to prepare for digital media and Web 2.0 
-* Responsible for maintaining healthy relationships with the Business Units
+  * Skills training and Knowledge Transfer Sessions on a weekly basis
+  * Web Development Management on an ad hoc basis
+  * Knowledge workshops of apprentice journalists to prepare for digital media and Web 2.0 
+  * Responsible for maintaining healthy relationships with the Business Units
 
 #### Behaviour Skills applied at Avusa Media
 
-* Business process improvement;
-* Information Content Publishing ;
-* Emerging technology monitoring (as it applies to technology for media houses);
-* Methodologies, templates and tool set development;
-* Application of ITIL Governance standards;
-* Staff KPI and KRA assessment processes;
-* Employment drive initiatives
-* Completion of job specifications and job grades;
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management. 
+  * Business process improvement;
+  * Information Content Publishing ;
+  * Emerging technology monitoring (as it applies to technology for media houses);
+  * Methodologies, templates and tool set development;
+  * Application of ITIL Governance standards;
+  * Staff KPI and KRA assessment processes;
+  * Employment drive initiatives
+  * Completion of job specifications and job grades;
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management. 
 
 #### Technology Skills Applied at Avusa
 
-* .NET Development and General OOP Programming Skills
-* Web Service Technologies using ASP  
-* Database Development Skills
-* Web Interface Design and Development Skills
-* Business analysis and Marketing Skills
-* Process and marketing skills relating to portal technology
-* Content Creation and general writing skills
-* AJAX Techniques
-* HTML Skills
-* CSS Skills
-* XML Skills
-* SQL and General Database Development and Design Skills
-* Design Patterns
-* Software Architecting Principles using RUP
-* Business Process Modeling i.e. BPMN
-* UML and Business Analysis using URDAD Methodology
+  * .NET Development and General OOP Programming Skills
+  * Web Service Technologies using ASP  
+  * Database Development Skills
+  * Web Interface Design and Development Skills
+  * Business analysis and Marketing Skills
+  * Process and marketing skills relating to portal technology
+  * Content Creation and general writing skills
+  * AJAX Techniques
+  * HTML Skills
+  * CSS Skills
+  * XML Skills
+  * SQL and General Database Development and Design Skills
+  * Design Patterns
+  * Software Architecting Principles using RUP
+  * Business Process Modeling i.e. BPMN
+  * UML and Business Analysis using URDAD Methodology
 
 #### Software Tools and Technologies used:
 
-* Sparx Enterprise Architect
-* MS Visio
-* Adobe Photoshop
-* MS Office
-* GN3 Site Manager
+  * Sparx Enterprise Architect
+  * MS Visio
+  * Adobe Photoshop
+  * MS Office
+  * GN3 Site Manager
 
 #### Reasons for Leaving
 
-* Head-hunted by Interfront to work as Analyst and Technology Consultant
+  * Head-hunted by Interfront to work as Analyst and Technology Consultant
 
 ---
 
@@ -494,71 +494,71 @@ Primary Interface Designer and Developer for Online Billing Solutions. Was also 
 
 #### New Interface Design for Online Billing Service
 
-* Responsible for GUI code for the Ease-e-Bill and Online Bill web services 
-* Responsible for CSS implementation for GUI front end
-* Development of Graphical User Interface elements using JSP 
-* Usability Testing and enhancement suggestions
-* Documentation writing (Online User Guide for Ease-e-Bill)
+  * Responsible for GUI code for the Ease-e-Bill and Online Bill web services 
+  * Responsible for CSS implementation for GUI front end
+  * Development of Graphical User Interface elements using JSP 
+  * Usability Testing and enhancement suggestions
+  * Documentation writing (Online User Guide for Ease-e-Bill)
 
 #### Ongoing Change Request Management
 
-* Change of layout and content elements for the electronic bill presentment 
-* Usability Enhancement for Graphical User Interface 
-* Business Analysis of new change request
-* Writing of Impact Analysis documentation
-* Writing of Functional Design Specification Documentation (FDS)
-* Use Case Analysis
+  * Change of layout and content elements for the electronic bill presentment 
+  * Usability Enhancement for Graphical User Interface 
+  * Business Analysis of new change request
+  * Writing of Impact Analysis documentation
+  * Writing of Functional Design Specification Documentation (FDS)
+  * Use Case Analysis
 
 #### Implementation of Sarbanes-Oxley Compliancy
 
-* Form validation of passwords entered using JavaScript 
-* Usability Enhancement for Graphical User Interface 
-* Generic Front End Development using JSP 
-* Responsible for CSS implementation for GUI front end
-* Development of Graphical User Interface elements using JSP 
-* Usability Testing and enhancement suggestions
-* Documentation writing
+  * Form validation of passwords entered using JavaScript 
+  * Usability Enhancement for Graphical User Interface 
+  * Generic Front End Development using JSP 
+  * Responsible for CSS implementation for GUI front end
+  * Development of Graphical User Interface elements using JSP 
+  * Usability Testing and enhancement suggestions
+  * Documentation writing
 
 #### Skills Applied at Telkom
 
-* Web Interface Design and Development Skills
-* Business analysis 
-* Process mapping related to Billing Systems
-* Content Creation and general writing skills
-* HTML Skills
-* CSS Skills
-* XML Skills
-* SQL and General Database Development and Design Skills
-* Design Patterns (MVC in particular).
-* Software Architecting Principles using RUP
-* UML 
-* J2EE Development
-* Change Request Management.
+  * Web Interface Design and Development Skills
+  * Business analysis 
+  * Process mapping related to Billing Systems
+  * Content Creation and general writing skills
+  * HTML Skills
+  * CSS Skills
+  * XML Skills
+  * SQL and General Database Development and Design Skills
+  * Design Patterns (MVC in particular).
+  * Software Architecting Principles using RUP
+  * UML 
+  * J2EE Development
+  * Change Request Management.
 
 #### Management and leadership skills applied at Telkom
 
-* Business process improvement;
-* Change Management and associated processes;
-* Knowledge workshops and skills transfer;
-* Improvement of standardized templates and toolsets for the development team;
-* Software Development Process Improvement;
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-*  Learning and development management. 
+  * Business process improvement;
+  * Change Management and associated processes;
+  * Knowledge workshops and skills transfer;
+  * Improvement of standardized templates and toolsets for the development team;
+  * Software Development Process Improvement;
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management. 
 
 #### Software Tools and Technologies used:
 
-* Sparx Enterprise Architect
-* MS Visio
-* Adobe Photoshop
-* Eclipse IDE
-* CVS / Subversion
+  * Sparx Enterprise Architect
+  * MS Visio
+  * Adobe Photoshop
+  * Eclipse IDE
+  * CVS / Subversion
 
 #### Reasons for Leaving
 
-* Career Growth ;
-* Exciting Opportunity presented itself in the Media Industry.
+  * Career Growth ;
+  * Exciting Opportunity presented itself in the Media Industry.
 
 ---
 
@@ -578,97 +578,97 @@ I subsequently was exposed to Middleware Development as my Development skills gr
 
 #### Project 1: Modular EPPIX Web Based Billing System
 
-* GUI code for the GSM Module of the web based Customer Care and Billing System
-* Responsible for CSS implementation for Flash Based GUI front end
-* Development of Graphical User Interface using AS 2.0 for a web based Customer Care and Billing System
-* Development of Integration module between the Client and Server
-* Usability Testing and enhancement suggestions
-* Documentation writing
-* Implementation of Framework Enhancement
-* Knowledge and Skills transfer from UK to South African office 
+  * GUI code for the GSM Module of the web based Customer Care and Billing System
+  * Responsible for CSS implementation for Flash Based GUI front end
+  * Development of Graphical User Interface using AS 2.0 for a web based Customer Care and Billing System
+  * Development of Integration module between the Client and Server
+  * Usability Testing and enhancement suggestions
+  * Documentation writing
+  * Implementation of Framework Enhancement
+  * Knowledge and Skills transfer from UK to South African office 
 
 #### Project 2: Modular EPPIX Rating System (Johannesburg SA)
 
-* Usability Enhancement for Graphical User Interface of the Modular EPPIX Rating Software
-* Development of custom GUI elements
-* User Documentation writing
+  * Usability Enhancement for Graphical User Interface of the Modular EPPIX Rating Software
+  * Development of custom GUI elements
+  * User Documentation writing
 
 #### Project 3: ISO Quality Facilitation (Johannesburg SA)
 
-* Maintenance and updating of all the QMS material relating to the Project Engineering Department
-* Maintenance and updating of all the QMS material relating to the Business Analysis Department
-* Conducting of internal ISO 9001:2000 audits
+  * Maintenance and updating of all the QMS material relating to the Project Engineering Department
+  * Maintenance and updating of all the QMS material relating to the Business Analysis Department
+  * Conducting of internal ISO 9001:2000 audits
 
 #### Project 4: Mobile Number Portability MTN (Johannesburg SA)
 
-* Web Service Development
-* SOA Architecture Documentation
-* Interface Development and Integration Development between Billing Solution and the MNP Solution
+  * Web Service Development
+  * SOA Architecture Documentation
+  * Interface Development and Integration Development between Billing Solution and the MNP Solution
 
 #### Management and leadership skills applied at Eppixcomm
 
-* Information and data analysis;
-* Solution architecture;
-* Chairing team meetings;
-* Facilitation between SA and UK team;
-* Knowledge workshops and skills transfer;
-* Improvement of standardized templates and toolsets for the development team;
-* Software Development Process Improvement;
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management. 
+  * Information and data analysis;
+  * Solution architecture;
+  * Chairing team meetings;
+  * Facilitation between SA and UK team;
+  * Knowledge workshops and skills transfer;
+  * Improvement of standardized templates and toolsets for the development team;
+  * Software Development Process Improvement;
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management. 
 
 #### Skills Attained and Retained while at EppixComm Technologies
 
-* J2EE Development and General OOP Programming Skills
-* ActionScript 2.0 Programming and Development skills (ECMA)
-* Extensive Macromedia Flash IDE Skills
-* Database Development Skills
-* Web Interface Design and Development Skills
-* Business analysis and Marketing Skills
-* Process and marketing skills relating to portal technology
-* Content Creation and general writing skills
-* General Graphic Design Skills
-* User Interface Design Skills; i.e. icons, buttons and splashscreens.
-* HTML Skills
-* CSS Skills
-* XML Skills
-* SQL and General Database Development and Design Skills
-* Design Patterns
-* Software Architecting Principles using RUP
+  * J2EE Development and General OOP Programming Skills
+  * ActionScript 2.0 Programming and Development skills (ECMA)
+  * Extensive Macromedia Flash IDE Skills
+  * Database Development Skills
+  * Web Interface Design and Development Skills
+  * Business analysis and Marketing Skills
+  * Process and marketing skills relating to portal technology
+  * Content Creation and general writing skills
+  * General Graphic Design Skills
+  * User Interface Design Skills; i.e. icons, buttons and splashscreens.
+  * HTML Skills
+  * CSS Skills
+  * XML Skills
+  * SQL and General Database Development and Design Skills
+  * Design Patterns
+  * Software Architecting Principles using RUP
 
 #### Software Applications and platforms used while at EppixComm Technologies:
 
-* Eclipse IDE 2 - 3.1
-* NetBeans IDE
-* Macromedia Flash MX 2004 Professional
-* Macromedia Freehand
-* Macromedia Dreamweaver
-* Rational Rose UML Tool
-* Apache Tomcat Servlet Container
-* Adobe Photoshop
-* MS Office
-* Open Office
-* UNIX
-* Suse Linux
+  * Eclipse IDE 2 - 3.1
+  * NetBeans IDE
+  * Macromedia Flash MX 2004 Professional
+  * Macromedia Freehand
+  * Macromedia Dreamweaver
+  * Rational Rose UML Tool
+  * Apache Tomcat Servlet Container
+  * Adobe Photoshop
+  * MS Office
+  * Open Office
+  * UNIX
+  * Suse Linux
 
  #### Programming and Markup Languages Used:
 
-* General ECMA 6026 Scripting Languages
-* Macromedia Flash ActionScript 1.0 
-* Macromedia Flash ActionScript 2.0
-* Java Script
-* Java 1.4
-* J2SE (Java Standard Edition)
-* J2EE (Enterprise Java Beans)
-* UML
-* HTML 
-* CSS
-* XML
-* DHTML
-* Introduction to Informix SQL
-* Introduction to 4GL
+  * General ECMA 6026 Scripting Languages
+  * Macromedia Flash ActionScript 1.0 
+  * Macromedia Flash ActionScript 2.0
+  * Java Script
+  * Java 1.4
+  * J2SE (Java Standard Edition)
+  * J2EE (Enterprise Java Beans)
+  * UML
+  * HTML 
+  * CSS
+  * XML
+  * DHTML
+  * Introduction to Informix SQL
+  * Introduction to 4GL
 
 ## Web Developer and Knowledge Management Technology Consultant
 
@@ -682,91 +682,91 @@ I was responsible for the development and design of web application interface de
 
 #### Project 1: Intracs Portal Software
 
-* Design and maintenance of the corporate Website for Intervate
-* Design of generic web application templates for an 'Intranet out of the Box' software application
-* Maintenance of web application templates
-* Design and Maintenance of the Corporate Web Site
-* Design and Maintenance of Product Specific websites
-* Design and Maintenance of the Functional Product i.e. Web Application Based templates
-* Development and Design of Graphical User Interface elements
-* Development and Design of icons and other user interface elements
-* Conducting of Usability Testing and Usability enhancements
-* Development of CSS based themes for various clients using the Intracs software
-* Design and Preparation of all print based marketing collateral
-* Design and Preparation of all online and multimedia related marketing material
+  * Design and maintenance of the corporate Website for Intervate
+  * Design of generic web application templates for an 'Intranet out of the Box' software application
+  * Maintenance of web application templates
+  * Design and Maintenance of the Corporate Web Site
+  * Design and Maintenance of Product Specific websites
+  * Design and Maintenance of the Functional Product i.e. Web Application Based templates
+  * Development and Design of Graphical User Interface elements
+  * Development and Design of icons and other user interface elements
+  * Conducting of Usability Testing and Usability enhancements
+  * Development of CSS based themes for various clients using the Intracs software
+  * Design and Preparation of all print based marketing collateral
+  * Design and Preparation of all online and multimedia related marketing material
 
 #### Project 2: SharePoint Portal Server Solutions
 
-* Customization of SharePoint Portal Server Templates using Frontpage 2003
-* Development of custom themes for SharePoint Portal Server 2003
-* Implementation of SharePoint Portal Server at Microsoft South Africa
-* Assessing of client needs and implementing solutions via SharePoint Portal Server Technologies
-* Building and Development of XML Data-Driven Web Sites with FrontPage 2003
-* Familiarization with SharePoint Portal Server directory structure and compatibility with Frontpage 2003
+  * Customization of SharePoint Portal Server Templates using Frontpage 2003
+  * Development of custom themes for SharePoint Portal Server 2003
+  * Implementation of SharePoint Portal Server at Microsoft South Africa
+  * Assessing of client needs and implementing solutions via SharePoint Portal Server Technologies
+  * Building and Development of XML Data-Driven Web Sites with FrontPage 2003
+  * Familiarization with SharePoint Portal Server directory structure and compatibility with Frontpage 2003
 
 #### Project 3: Lingo and VisEx
 
-* Design of generic web application template for the Lingo and VisEx Applications
-* Design and Maintenance of Product Specific web pages
-* Development and Design of Graphical User Interface elements
-* Development and Design of icons and other user interface elements
-* Conducting of Usability Testing and Usability enhancements
-* Design and Preparation of all print based marketing collateral
-* Design and Preparation of all online and multimedia related marketing material
+  * Design of generic web application template for the Lingo and VisEx Applications
+  * Design and Maintenance of Product Specific web pages
+  * Development and Design of Graphical User Interface elements
+  * Development and Design of icons and other user interface elements
+  * Conducting of Usability Testing and Usability enhancements
+  * Design and Preparation of all print based marketing collateral
+  * Design and Preparation of all online and multimedia related marketing material
 
 #### General skills applied at Intervate
 
-* Information analysis;
-* Training and development;
-* Emerging technology monitoring 
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management. 
+  * Information analysis;
+  * Training and development;
+  * Emerging technology monitoring 
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management. 
 
 #### Skills Attained and Retained while working for Intervate
 
-* HTML Skills
-* CSS Skills
-* XML Skills
-* Microsoft Active Server Pages
-* Database Development Skills
-* Web Interface Design Skills
-* Web Template Development Skills
-* Business analysis and Marketing Skills
-* Process and marketing skills relating to portal technology
-* Content Creation and general writing skills
-* General Graphic Design Skills
-* Vector Based Layout and Illustration skills
-* Vector Based Animation and Design Skills
-* User Interface Design Skills; i.e. icons, buttons and splash screens.
-* Multimedia Design Skills
+  * HTML Skills
+  * CSS Skills
+  * XML Skills
+  * Microsoft Active Server Pages
+  * Database Development Skills
+  * Web Interface Design Skills
+  * Web Template Development Skills
+  * Business analysis and Marketing Skills
+  * Process and marketing skills relating to portal technology
+  * Content Creation and general writing skills
+  * General Graphic Design Skills
+  * Vector Based Layout and Illustration skills
+  * Vector Based Animation and Design Skills
+  * User Interface Design Skills; i.e. icons, buttons and splash screens.
+  * Multimedia Design Skills
 
 #### Software Applications used while working at Intervate:
 
-* Microsoft Frontpage 2003, used in SharePoint Portal Server 2003 customization
-* Allaire Home Site, used in HTML editing and Website maintenance
-* Macromedia Freehand
-* Macromedia Flash
-* Macromedia Director
-* Macromedia Dreamweaver
-* Adobe Photoshop
-* Corel Draw
-* Corel Xara
-* MS Office
+  * Microsoft Frontpage 2003, used in SharePoint Portal Server 2003 customization
+  * Allaire Home Site, used in HTML editing and Website maintenance
+  * Macromedia Freehand
+  * Macromedia Flash
+  * Macromedia Director
+  * Macromedia Dreamweaver
+  * Adobe Photoshop
+  * Corel Draw
+  * Corel Xara
+  * MS Office
 
  #### Programming and Markup Languages Used while working at Intervate:
 
-* HTML 
-* CSS
-* XML
-* Java Script
-* DHTML
-* ASP
-* Macromedia Director's Lingo Scripting Language
-* Macromedia Flash ActionScript 1.0
-* Macromedia Flash ActionScript 2.0
-* General OOP and introduction to C#
+  * HTML 
+  * CSS
+  * XML
+  * Java Script
+  * DHTML
+  * ASP
+  * Macromedia Director's Lingo Scripting Language
+  * Macromedia Flash ActionScript 1.0
+  * Macromedia Flash ActionScript 2.0
+  * General OOP and introduction to C#
 
 ---
 
@@ -782,85 +782,85 @@ I was chiefly responsible for the development and design of web sites and interf
 
 #### MIH Project 1: News24 Online News Web Portal:
 
-* Creation of the functional requirements for a news feed application and Content Management System
-* Design of generic news templates for News24 news portal website
-* Basic Database maintenance, i.e. creation of new category tables
-* Maintenance of news templates
-* Design of Special Report Website: News24 and Rapport Vodacom Cycle Tour
-* Design of Special Report Website: News24 and EA Sports Million Dollar Golf 1999
-* Design of Special Report Website: News24 Rugby World Cup
-* Design of Special Report Website: News24 World Cup Cricket
-* Design of Special Report Website: News24 Conflict in the Middle East Operation Desert Fox
-* Design of Special Report Website: The South African War
-* Design of Special Report Website: News24 Elections 1999
-* General photo and other graphical image optimization and manipulation
-* Content writing and editing of 'soft news stories'
-* Internal Staff training and software support
+  * Creation of the functional requirements for a news feed application and Content Management System
+  * Design of generic news templates for News24 news portal website
+  * Basic Database maintenance, i.e. creation of new category tables
+  * Maintenance of news templates
+  * Design of Special Report Website: News24 and Rapport Vodacom Cycle Tour
+  * Design of Special Report Website: News24 and EA Sports Million Dollar Golf 1999
+  * Design of Special Report Website: News24 Rugby World Cup
+  * Design of Special Report Website: News24 World Cup Cricket
+  * Design of Special Report Website: News24 Conflict in the Middle East Operation Desert Fox
+  * Design of Special Report Website: The South African War
+  * Design of Special Report Website: News24 Elections 1999
+  * General photo and other graphical image optimization and manipulation
+  * Content writing and editing of 'soft news stories'
+  * Internal Staff training and software support
 
 #### MIH Project 2: M-Web ISP Portal's M-School:
 
-* Design and Development of main M-School website and related grade and subject templates
-* Scripting of dynamic content in the form of quizzes and flash based animations and lessons
-* Overall Management of the M-School Project
-* Creation of the functional requirements for a M-School
-* Liaising with other educational partners
-* Establishment of the brand and involvement in the Advertising Campaign
-* Design of all branding collateral
-* Functional Requirements of access to privileged content server for M-Web subscribers
+  * Design and Development of main M-School website and related grade and subject templates
+  * Scripting of dynamic content in the form of quizzes and flash based animations and lessons
+  * Overall Management of the M-School Project
+  * Creation of the functional requirements for a M-School
+  * Liaising with other educational partners
+  * Establishment of the brand and involvement in the Advertising Campaign
+  * Design of all branding collateral
+  * Functional Requirements of access to privileged content server for M-Web subscribers
 
 #### MIH Project 3: M-Web, Liberty Life's Learning Centre with William Smith
 
-* Re-design of Educational Website aimed at Grades 9 - 12
-* CSS development for different Grade Templates
-* Liaising with other educational partners
+  * Re-design of Educational Website aimed at Grades 9 - 12
+  * CSS development for different Grade Templates
+  * Liaising with other educational partners
 
 #### MIH Project 4: DSTV's KykNet Website
 
  A rich multimedia website for the launch of the Afrikaans TV channel on DSTV**
 
-* Liaising with the Marketing Manager of DSTV's Kyknet Channel
-* Design and Development of the website
-* Development of Flash based Interactive Content
-* Design and Development of portal tools for 'sticky content' i.e. forums and polls
-* Development of Flash based Screen Savers
-* Development of Flash based novelty games for the site to compliment the marketing campaign
+  * Liaising with the Marketing Manager of DSTV's Kyknet Channel
+  * Design and Development of the website
+  * Development of Flash based Interactive Content
+  * Design and Development of portal tools for 'sticky content' i.e. forums and polls
+  * Development of Flash based Screen Savers
+  * Development of Flash based novelty games for the site to compliment the marketing campaign
 
 #### MIH Project 5: Cyberlaw Web Site and Virtual Book Launch
 
-* Responsible for a virtual book launch Cyberlaw SA
-* Facilitating of Cyberlaw Chat room for the Virtual Book launch
-* Design and Development of the website
-* Development of Flash based Interactive Content
-* Design and Development of portal tools for 'sticky content' i.e. forums and polls
-* Development of Flash based Screen Savers
+  * Responsible for a virtual book launch Cyberlaw SA
+  * Facilitating of Cyberlaw Chat room for the Virtual Book launch
+  * Design and Development of the website
+  * Development of Flash based Interactive Content
+  * Design and Development of portal tools for 'sticky content' i.e. forums and polls
+  * Development of Flash based Screen Savers
 
 #### MIH Project 6: M-Web II
 
 Major re-development and re-launch of the M-Web ISP Portal
 
-* Development of Dynamic Web Applications for the ISP Portal
-* Design of web interfaces pertaining to online tools and services
-* Research and implementing user friendly web design and web application tools
-* Creation of a portal wide style sheet guide
-* Creation of generic templates for the sub portal sections of the M-Web Portal
-* Functional specifications for content management system for the M-Web portal
-* Involved in the new branding and advertising campaign
+  * Development of Dynamic Web Applications for the ISP Portal
+  * Design of web interfaces pertaining to online tools and services
+  * Research and implementing user friendly web design and web application tools
+  * Creation of a portal wide style sheet guide
+  * Creation of generic templates for the sub portal sections of the M-Web Portal
+  * Functional specifications for content management system for the M-Web portal
+  * Involved in the new branding and advertising campaign
 
 #### MIH Project 7: M-Web Computing and Virus Center
 
-* Spearheaded the establishment of an online Virus Centre for M-Web subscribers
-* Design of web elements of the M-Web Virus Centre sub portal
-* Maintenance of the Virus Center’s Web Forum
-* Liaising with Virus Protection Software Companies for automation of Virus Control and protection for M-Web subscribers
-* Documentation of Business Proposal between M-Web and Symantec
-* Delivery and writing of content for M-Web Computing and the Virus Centre
-* Delivery and writing of content for M-Web Games
+  * Spearheaded the establishment of an online Virus Centre for M-Web subscribers
+  * Design of web elements of the M-Web Virus Centre sub portal
+  * Maintenance of the Virus Center’s Web Forum
+  * Liaising with Virus Protection Software Companies for automation of Virus Control and protection for M-Web subscribers
+  * Documentation of Business Proposal between M-Web and Symantec
+  * Delivery and writing of content for M-Web Computing and the Virus Centre
+  * Delivery and writing of content for M-Web Games
 
 #### MIH Project 8: Mobile and GSM Services
 
-* Design and Creation of PDA templates for the M-Web Mobile Content Portal
-* Design and Development of Avantgo M-Web Channels
-* Creation of WAP and PDA templates for mobile cellular content
+  * Design and Creation of PDA templates for the M-Web Mobile Content Portal
+  * Design and Development of Avantgo M-Web Channels
+  * Creation of WAP and PDA templates for mobile cellular content
 
 #### MIH Project 9: Part-time Lecturer: University of Stellenbosch
 
@@ -870,51 +870,51 @@ Lecturer in New Media Design and Development at the Department of Journalism
 
 #### Management and leadership skills applied at MIH
 
-* Software development process improvement;
-* Project Management;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management. 
+  * Software development process improvement;
+  * Project Management;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management. 
 
 #### Skills Attained and Retained while working for MIH Holdings
 
-* HTML Skills
-* CSS Skills
-* Microsoft Active Server Pages
-* Database Development Skills
-* Web Interface Design Skills
-* Web Template Development Skills
-* Business analysis and Marketing Skills
-* Process and marketing skills relating to portal technology
-* Content Creation and general writing skills
-* General Graphic Design Skills
-* Vector Based Layout and Illustration skills
-* Vector Based Animation and Design Skills
-* User Interface Design Skills; i.e. icons, buttons and splash screens.
-* Multimedia Design Skills
+  * HTML Skills
+  * CSS Skills
+  * Microsoft Active Server Pages
+  * Database Development Skills
+  * Web Interface Design Skills
+  * Web Template Development Skills
+  * Business analysis and Marketing Skills
+  * Process and marketing skills relating to portal technology
+  * Content Creation and general writing skills
+  * General Graphic Design Skills
+  * Vector Based Layout and Illustration skills
+  * Vector Based Animation and Design Skills
+  * User Interface Design Skills; i.e. icons, buttons and splash screens.
+  * Multimedia Design Skills
 
 #### Software Applications used while working for MIH Holdings:
 
-* Microsoft FrontPage, used in HTML editing and Website maintenance
-* Allaire Home Site, used in HTML editing and Website maintenance
-* Macromedia Freehand
-* Macromedia Flash
-* Macromedia Director
-* Macromedia Dreamweaver
-* Adobe Photoshop
-* Corel Draw
-* Corel Xara
-* MS Office
+  * Microsoft FrontPage, used in HTML editing and Website maintenance
+  * Allaire Home Site, used in HTML editing and Website maintenance
+  * Macromedia Freehand
+  * Macromedia Flash
+  * Macromedia Director
+  * Macromedia Dreamweaver
+  * Adobe Photoshop
+  * Corel Draw
+  * Corel Xara
+  * MS Office
 
 #### Programming and Markup Languages Used while working at MIH Holdings
 
-* HTML 
-* CSS
-* Java Script
-* DHTML
-* ASP
-* Macromedia Director's Lingo Scripting Language
-* Macromedia Flash ActionScript 1.0
+  * HTML 
+  * CSS
+  * Java Script
+  * DHTML
+  * ASP
+  * Macromedia Director's Lingo Scripting Language
+  * Macromedia Flash ActionScript 1.0
 
 ## Web Developer and Designer
 
@@ -928,35 +928,35 @@ I was responsible for all Graphic Design and Web Design initiatives. I was intro
 
 Quantity Surveying Software for SME Building Contractors
 
-* Design and Maintenance of the Corporate Web Site
-* Design and Maintenance of Product Specific websites
-* Design and Maintenance of the Functional Product i.e. Web Application Based websites
-* Development and Design of Graphical User Interface elements
-* Development and Design of icons and other user interface elements
-* Graphical Design of Splash screens for all software products.
-* Design and Preparation of all print based marketing collateral
-* Design and Preparation of all online and multimedia related marketing material
+  * Design and Maintenance of the Corporate Web Site
+  * Design and Maintenance of Product Specific websites
+  * Design and Maintenance of the Functional Product i.e. Web Application Based websites
+  * Development and Design of Graphical User Interface elements
+  * Development and Design of icons and other user interface elements
+  * Graphical Design of Splash screens for all software products.
+  * Design and Preparation of all print based marketing collateral
+  * Design and Preparation of all online and multimedia related marketing material
 
  #### Billcad Holdings Project 2: E-Spec:
 
 An online Web Application for SME Builders and Quantity Surveyors
 
-* Design and Maintenance of the E-Spec Web Site
-* Design and Maintenance of E-Spec Web Templates
-* Optimization of Web User Interface elements
-* Design and Preparation of all print based marketing collateral
-* Design and Preparation of all online and multimedia related marketing material
+  * Design and Maintenance of the E-Spec Web Site
+  * Design and Maintenance of E-Spec Web Templates
+  * Optimization of Web User Interface elements
+  * Design and Preparation of all print based marketing collateral
+  * Design and Preparation of all online and multimedia related marketing material
 
 #### Billcad Holdings Project 3: E-Prop:
 
 An online Web Application Software System for Estate Agents
 
-* Design and Maintenance of the E-Prop Web Site
-* Design and Maintenance of E-Prop Web Templates
-* Development of Java based applets for viewing South African Maps
-* Software Application Interface elements
-* Design and Preparation of all print based marketing collateral
-* Design and Preparation of all online and multimedia related marketing material
+  * Design and Maintenance of the E-Prop Web Site
+  * Design and Maintenance of E-Prop Web Templates
+  * Development of Java based applets for viewing South African Maps
+  * Software Application Interface elements
+  * Design and Preparation of all print based marketing collateral
+  * Design and Preparation of all online and multimedia related marketing material
 
  #### Billcad Holdings Project 4: 
 
@@ -964,67 +964,67 @@ Interpage: Template based solution for uploading basic websites.
 
 Aimed at Estate Agents and Property Developers
 
-* Design and Development of a collection of Web Templates
-* Basic Research into user friendly web site development
-* Documentation and User Guide writing
-* Design and Preparation of all print based marketing collateral
-* Design and Preparation of all online and multimedia related marketing material
+  * Design and Development of a collection of Web Templates
+  * Basic Research into user friendly web site development
+  * Documentation and User Guide writing
+  * Design and Preparation of all print based marketing collateral
+  * Design and Preparation of all online and multimedia related marketing material
 
 #### Management and leadership skills
 
-* Teamlead: Multimedia CD Development;
-* Stakeholder relationship management;
-* Training and development;
-* Learning and development management.
+  * Teamlead: Multimedia CD Development;
+  * Stakeholder relationship management;
+  * Training and development;
+  * Learning and development management.
 
 #### Skills Attained while working at Billcad Holdings:
 
-* HTML Skills
-* Beginning CSS Skills
-* Java Web Applet Development
-* Microsoft ActiveX Control Skills
-* General Graphic Design Skills
-* Vector Based Layout and Illustration skills
-* Vector Based Animation and Design Skills
-* User Interface Design Skills; i.e. icons, buttons and splash screens.
-* Multimedia Design Skills
-* Process and marketing skills relating to information technology Skills
-* Database Skills
-* Java Applet Development Skills
-* Web Interface Design Skills
-* Web Template Development Skills
-* Internal Corporate Marketing Skills
-* Introduction to Technical writing in the form of User Guides and documentation writing
+  * HTML Skills
+  * Beginning CSS Skills
+  * Java Web Applet Development
+  * Microsoft ActiveX Control Skills
+  * General Graphic Design Skills
+  * Vector Based Layout and Illustration skills
+  * Vector Based Animation and Design Skills
+  * User Interface Design Skills; i.e. icons, buttons and splash screens.
+  * Multimedia Design Skills
+  * Process and marketing skills relating to information technology Skills
+  * Database Skills
+  * Java Applet Development Skills
+  * Web Interface Design Skills
+  * Web Template Development Skills
+  * Internal Corporate Marketing Skills
+  * Introduction to Technical writing in the form of User Guides and documentation writing
 
  #### Software Applications used while working at Billcad Holdings:
 
-* Microsoft FrontPage, used in HTML editing and Website maintenance
-* Allaire Home Site, used in HTML editing and Website maintenance
-* Corel Draw
-* Macromedia Freehand
-* Macromedia Director
-* Adobe Photoshop
-* Jasc Software Paint Shop Pro
-* LView Pro, used in image compression and enhancement
-* Microangelo, used in design of GUI elements 
+  * Microsoft FrontPage, used in HTML editing and Website maintenance
+  * Allaire Home Site, used in HTML editing and Website maintenance
+  * Corel Draw
+  * Macromedia Freehand
+  * Macromedia Director
+  * Adobe Photoshop
+  * Jasc Software Paint Shop Pro
+  * LView Pro, used in image compression and enhancement
+  * Microangelo, used in design of GUI elements 
 
 #### Programming and Markup Languages Used while working at Billcad Holdings
 
-* HTML 
-* Java Script
-* Macromedia Director's Lingo Scripting Language
-* ActiveX Scripting
+  * HTML 
+  * Java Script
+  * Macromedia Director's Lingo Scripting Language
+  * ActiveX Scripting
 
 ---
 
 ## Career Activities,  Awards and Commendable Activities
 
-* Interfront Graduate Intern Programme Design
-* Mentioned in Customer Satisfaction Survey, CSIR, 2009;
-* CSIR Digital Media Initiative;
-* CSIR Skills Framework design and implementation; 
-* Telkom Name in Lights Award, 2007
-* Mentor-Intern, CSIR Knowledge Workshop Initiative, 2009.
+  * Interfront Graduate Intern Programme Design
+  * Mentioned in Customer Satisfaction Survey, CSIR, 2009;
+  * CSIR Digital Media Initiative;
+  * CSIR Skills Framework design and implementation; 
+  * Telkom Name in Lights Award, 2007
+  * Mentor-Intern, CSIR Knowledge Workshop Initiative, 2009.
 
 ---
 
@@ -1036,9 +1036,9 @@ Lizette was responsible for managing the System Engineer and Business Analyst te
 
 #### Contact Information for Lizette:
 
-* General Manager: Services at Stone Three, Cape Town
-* Email: lizette.gericke@gmail.com
-* Mobile:  +27 83 303 5121
+  * General Manager: Services at Stone Three, Cape Town
+  * Email: lizette.gericke@gmail.com
+  * Mobile:  +27 83 303 5121
 
 ### Mark Beckerling
 
@@ -1046,9 +1046,9 @@ Mark was responsible for managing the Luxembourg Development team and I reported
 
 #### Contact Information for Mark:
 
-* Head of Operations & Development: zenAptix, Cape Town
-* Email: markbeckerling@gmail.com
-* Mobile:  +27 82 758 5981
+  * Head of Operations & Development: zenAptix, Cape Town
+  * Email: markbeckerling@gmail.com
+  * Mobile:  +27 82 758 5981
 
 ### Kurt Plaatjes
 
@@ -1056,9 +1056,9 @@ Kurt and I worked together from August 2011 until the end of 2018. Kurt was resp
 
 #### Contact Information for Kurt:
 
-* Technical Operations Specialist: VOSS Solutions, Century City, Cape Town
-* Email: kurtplaatjes@gmail.com
-* Mobile:  +27 72 2297159
+  * Technical Operations Specialist: VOSS Solutions, Century City, Cape Town
+  * Email: kurtplaatjes@gmail.com
+  * Mobile:  +27 72 2297159
 
 ### Henrico Solomon: Team Lead: Frontend Development at Interfront
 
@@ -1066,7 +1066,7 @@ Henrico and I have worked together for the past 16 months. Henrico can comment o
 
 #### Contact Information for Henrico:
 
-* Mobile:  +27 83 7906625
+  * Mobile:  +27 83 7906625
 
 ### Brendon McDonald: Team Lead: Backend Development at Interfront
 
@@ -1075,7 +1075,7 @@ Brendon is now able to comment on my understanding of technology stacks, my matu
 
 #### Contact Information for Henrico:
 
-* Mobile:  +27 60 966 0915
+  * Mobile:  +27 60 966 0915
 
 ### Ryan Goliath: Senior Java Developer at Interfront
 
@@ -1083,43 +1083,41 @@ Ryan and I have worked together at Interfront for the past 14 months. Ryan can c
 
 #### Contact Information for Henrico:
 
-* Mobile:  +27 76 885 2827
-
-- - -
+  * Mobile:  +27 76 885 2827
 
 ## LinkedIn Profile
 
 More recommendations are available on my LinkedIn profile.
 
-- [Ilze on LinkedIn](https://www.linkedin.com/in/ilzekoning/)
+[Ilze on LinkedIn](https://www.linkedin.com/in/ilzekoning/)
 
 ### Analyst / Technology Consultant at Intervate
 
  “Ilze is a highly motivated and dedicated person with extensive skills in the information technology space.. She excels at every task and is a pleasure to work with. An asset to any team!” *August 5, 2010*
 
-- Wilhelm Van Rensburg *, Director , Intervate* managed Ilze at Intervate
+Wilhelm Van Rensburg *, Director , Intervate* managed Ilze at Intervate
 
 “Ilze’s approach to analysis is very mature, and the results are detailed and well presented! She benefits any team who appreciates the value of good analysis.” *February 4, 2009*
 
-- Shaun Dicker, Executive Manager: Delivery , Intervate Solutions (Pty) Ltd (managed Ilze indirectly at Intervate).
+Shaun Dicker, Executive Manager: Delivery , Intervate Solutions (Pty) Ltd (managed Ilze indirectly at Intervate).
 
 ### Web Design and Development at Billcad Holdings
 
 “I've known Ilze for more that 15 years now and have worked with her on several projects She has excelent knowledge of Software architecture technologies: UML , design patterns, OO methodology, RUP.... and knows just about everything there is to know about web page layout CSS, HTML and graphical design for the web. She is also a proficient Java and Java script programmer and is comfortable with all the bits and pieces that one need to build complex web-enable apps e.g. databases, TCPIP etc. I've not know her to quit once she put here mind on doing something,” *September 23, 2007*
 
-- Max Robbertze, *Development Manager , Billcad Holdings*
+Max Robbertze, *Development Manager , Billcad Holdings*
 
 ### Web Development Manager at Avusa
 
 “Ilze, tasked with implementing the redesign of BDFM's financial publication websites, tackled them with gusto. She frequently went the extra mile and brought her team along with her in the process. She's dedicated, helpful, analytical and resourceful team player and leader. I sincerely hope I have the opportunity to work with her again in the not too distant future.” *December 12, 2008*
 
-- Terry Shapiro, *New Business Development Manager*, BDFM Publishers
+Terry Shapiro, *New Business Development Manager*, BDFM Publishers
 
 ### Web Developer at News24
 
 “When I worked with Ilze ten years ago she was one of a kind. It was early days in web development in South Africa and in Naspers. Ilze was a crucial player in the early development of News24 when the demand was for 24/7 news and the competion [sic] was tough. She worked extremely hard and long hours to make things work and delivered quality products timeously. She was a huge asset to have on board.” *January 4, 2009*
 
-- Arrie Rossouw: *Publisher, News24* managed Ilze at News24
+Arrie Rossouw: *Publisher, News24* managed Ilze at News24
 
 ---
 
