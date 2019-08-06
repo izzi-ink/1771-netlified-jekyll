@@ -4,10 +4,12 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  This is an experiment to apply the principles of design systems to my personal and professional life. A personal design system helps me live my life with integrity according to my personal strengths, values and skills.
+  This is an experiment to apply the principles of design systems to my personal
+  and professional life. A personal design system helps me live my life with
+  integrity according to my personal strengths, values and skills.
 ---
 
-# 1771: A Personal Design System
+# A Personal Design System
 
 ## Core Values
 
