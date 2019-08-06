@@ -8,8 +8,9 @@ intro_paragraph: >
   and professional life. A personal design system helps me live my life with
   integrity according to my personal strengths, values and skills.
 ---
-
 # A Personal Design System
+
+![Babbage the Badger](/assets/img/uploads/badger-izzi-font.png "Badger Values ")
 
 ## Core Values
 
