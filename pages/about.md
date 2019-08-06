@@ -16,11 +16,25 @@ I am looking for an opportunity where my design thinking, technical and analytic
 
 ## Strengths
 
-1. Versatility
-2. Creativity
-3. Analytical
-4. Love of Learning
-5. Perseverance
+```
+Versatility
+```
+
+```
+Creativity
+```
+
+```
+Analytical
+```
+
+```
+Love of Learning
+```
+
+```
+Perseverance
+```
 
 I am versatile and able to perform more than one role within the scope of a single project. Creativity is a core strength, complimentary to my analytical and logical approach to solving problems.
 
@@ -28,12 +42,29 @@ I persist through challenges and setbacks by staying creative and learning.
 
 ## Values
 
-* Kindness
-* Authenticity
-* Courageousness
-* Knowledge
-* Wisdom
-* Reliability
+```
+Kindness
+```
+
+```
+Authenticity
+```
+
+```
+Courageousness
+```
+
+```
+Knowledge
+```
+
+```
+Wisdom
+```
+
+```
+Reliability
+```
 
 ## Skills
 
@@ -104,18 +135,37 @@ This IBM Short Course focused mainly on the role of the Software Architect in th
 
 The following topics were covered:
 
-* RUP Methodology
-* MDA (Model Driven Architecture);
-* Design Patterns (The Gang of Four);
-* Modeling Software Solutions with UML 2.0 and
-* Using Views to communicate solutions architecture.
+```
+RUP Methodology
+```
+
+```
+MDA (Model Driven Architecture);
+```
+
+```
+Design Patterns (The Gang of Four);
+```
+
+```
+Modeling Software Solutions with UML 2.0 and
+```
+
+```
+Using Views to communicate solutions architecture.
+```
 
 This course prepared me to work as junior architect and applying the UML. I was introduced to Design Patterns and Object Oriented Analysis and Design.  
 
 ### Business Analysis using UML and URDAD ca. 2008
 
-* Solms Institute,  Johannesburg, Gauteng
-* Mentor: Dr. Fritz Solms
+```
+Solms Institute,  Johannesburg, Gauteng
+```
+
+```
+Mentor: Dr. Fritz Solms
+```
 
 This course focused mainly on Use Case driven Design, Analysis and Development. URDAD promotes a methodology for the modeling and design of SOA solutions, via service contracts. The key benefit of the methodology is the algorithm for managing requirements at the appropriate level of detail.
 
@@ -123,8 +173,13 @@ This course prepared me to work as analyst and architect, focusing on SOA.
 
 ### TOGAF 9: ca. 2010
 
-* Real IRM
-* Trainer and mentor: Louw Labuschagne
+```
+Real IRM
+```
+
+```
+Trainer and mentor: Louw Labuschagne
+```
 
 I completed the course and obtained Foundation Level certification for TOGAF 9.
 During this time I was actively involved in group discussions and a member of the Enterprise Architecture Research Forum, (EARF), at the Meraka Institute.
@@ -140,17 +195,39 @@ This short course equipped me with a theoretical overview of SOA Design Patterns
 
 ### Leadership Training and Development Short Course: ca. 2008
 
-* Futuristic Training and Development, Johannesburg, Gauteng
-* Trainer and Mentor: Marilyn Querend 
+```
+Futuristic Training and Development, Johannesburg, Gauteng
+```
+
+```
+Trainer and Mentor: Marilyn Querend 
+```
 
 This course covered the following skill-set, which I apply on a daily basis:
 
-* Business ethics and trust;
-* Communications skills; 
-* Time management;
-* Creative problem solving 
-* Building and maintaining positive interpersonal relationships;
-* Listening skills;
+```
+Business ethics and trust;
+```
+
+```
+Communications skills; 
+```
+
+```
+Time management;
+```
+
+```
+Creative problem solving 
+```
+
+```
+Building and maintaining positive interpersonal relationships;
+```
+
+```
+Listening skills;
+```
 
 This course prepared me to work as team lead and in mid-management.
 
@@ -166,8 +243,13 @@ This hands-on course, presented by Kwelenga, provided practical workshop scenari
 
 ### Current Position: Senior Business Analyst at Interfront SOC Ltd.
 
-* Interfront, Somerset West, Western Cape
-* August 2011 – present
+```
+Interfront, Somerset West, Western Cape
+```
+
+```
+August 2011 – present
+```
 
 #### Summary
 
@@ -183,31 +265,73 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 
  I am responsible for performing the following duties:
 
-* Facilitation of cross-functional teams and deliverables that concern UI items;
-* Provide technical expertise to the BA, UI Analyst, design teams and quality assurance teams;
-* I take responsibility for all UI design artifactss across the entire SDLC process;
-* I own the Key Performance Indicators for the iCBS Design System as Product;
-* I manage the  Sprint Backlog for UI project deliverables;
-* I keep an eye on the ways of work and interlocking processes, relating to front-end design;
-* I monitor and document standards and ways of work playbooks;
-* I actively keep abreast of new technology and tools and make this available to teams;
-* I play an active role in facilitation between the SARS Customer Experience Team, Interfront and the SARS Business Systems Unit;
-* I run daily stand-ups with the UI Analyst Team and represent the team at various project standups;
-* I assist the UI Analyst and Development team with  interpretation of use cases and requirements by distilling and summarising core requirements;
-* Stimulate and improve collaboration between individuals and teams;
-* Run regular skill sharing workshops on Fridays "Coding Fridays";
-* Share and coach on best practices;
-* Prepare checkin progress reports to the Operations Director;
-* Prepare project reports for the weekly progress check-in sessions with the Operations Director;
-* Coordinate activities to ensure consistencies between User Interfaces and component design for all solutions in the iCBS Solution suite;
-* I am responsible to ensure continuous improvement in delivery of design artefacts delivered to BA and Dev Team;  
-* I Ensure Improved value add to Functional Requirement Specifications,  Software (System) Requirement Specifications and Architecture Design Specifications, in the form of a UI-spec / Addendum to other specifications; 
-* Assist with the functional decomposition of system features; 
-* Assist the UX-UI Team with component audits;
-* I assist with analysis required for ECPs (Engineering Change Proposals), i.e. Change Requests;
-* I am responsible for providing an overview of the Interfront Customs and Border Solution (iCBS) Product Suite for new staff;
-* I am responsible for writing the usability test cases for all User Interfaces;
-* I am responsible to actively monitor DevOps and QA processes and initiatives to advocate the role of UX-UI in cross-cutting disciplines;
+**Facilitation**
+
+Facilitation of cross-functional teams and deliverables that concern UI items;
+
+I play an active role in facilitation between the SARS Customer Experience Team, Interfront and the SARS Business Systems Unit;
+
+**Technical coaching**
+
+Provide technical expertise to the BA, UI Analyst, design teams and quality assurance teams;
+
+**Ownership** 
+
+I take responsibility for all UI design artifacts across the entire SDLC process;
+
+**Product Ownership**
+
+I own the Key Performance Indicators for the iCBS Design System as Product;
+
+Coordinate activities to ensure consistencies between User Interfaces and component design for all solutions in the iCBS Solution suite;
+
+I am responsible to ensure continuous improvement in delivery of design artefacts delivered to BA and Dev Team; 
+
+Assist the UX-UI Team with component audits; 
+
+**Sprint and Scrum Mastering**
+
+I manage the  Sprint Backlog for UI project deliverables.
+
+I run daily stand-ups with the UI Analyst Team and represent the team at various project standups.
+
+**Processes and standard ways of work**
+
+I keep an eye on the ways of work and interlocking processes, relating to front-end design.
+
+I monitor and document standards and ways of work playbooks.
+
+I am responsible to actively monitor DevOps and QA processes and initiatives to advocate the role of UX-UI in cross-cutting disciplines.
+
+**Research and learning and teaching**
+
+I actively keep abreast of new technology and tools and make this available to teams.
+
+Run regular skill sharing workshops on Fridays "Coding Fridays".
+
+Share and coach on best practices.
+
+I am responsible for providing an overview of the Interfront Customs and Border Solution (iCBS) Product Suite for new staff.
+
+**Requirements Management and Quality**
+
+I assist the UI Analyst and Development team with  interpretation of use cases and requirements by distilling and summarizing core requirements.
+
+Stimulate and improve collaboration between individuals and teams;
+
+I Ensure Improved value add to Functional Requirement Specifications,  Software (System) Requirement Specifications and Architecture Design Specifications, in the form of a UI-spec / Addendum to other specifications; 
+
+Assist with the functional decomposition of system features; 
+
+I am responsible for writing the usability test cases for all User Interfaces;
+
+I assist with analysis required for ECPs (Engineering Change Proposals), i.e. Change Requests;
+
+**Project Management and Reporting**
+
+Prepare check-in progress reports to the Operations Director;
+
+Prepare project reports for the weekly progress check-in sessions with the Operations Director;
 
 #### Completed Projects in role as Senior BA
 
@@ -216,14 +340,21 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 
 #### Projects in role as UX-UI Team Coordinator
 
-* iCBS UI Design Standards and Guidelines (_concluded_);
-* iCBS Living Style Guide, a technical artifact UI Component Explorer (_concluded_);
-* Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (_ongoing_);
-* Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (_ongoing_);
-* Coordinate UI Deliverables for Customs Support Portal (_ongoing_);
-* Usability Test Designs for end-user engagement sessions;
-* User Satisfaction Survey Design;
-* Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (_concluded_). 
+iCBS UI Design Standards and Guidelines (_concluded_);
+
+iCBS Living Style Guide, a technical artifact UI Component Explorer (_concluded_);
+
+Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (_ongoing_);
+
+Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (_ongoing_);
+
+Coordinate UI Deliverables for Customs Support Portal (_ongoing_);
+
+Usability Test Designs for end-user engagement sessions;
+
+User Satisfaction Survey Design;
+
+Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (_concluded_). 
 
 #### Projects in role as Enterprise Business Analyst and in Project Management
 
