@@ -16,11 +16,21 @@ I am looking for an opportunity where my design thinking, technical and analytic
 
 ## Strengths
 
-1. Versatility
-2. Creativity
-3. Analytical
-4. Love of Learning
-5. Perseverance
+1. ```
+   Versatility
+   ```
+2. ```
+   Creativity
+   ```
+3. ```
+   Analytical
+   ```
+4. ```
+   Love of Learning
+   ```
+5. ```
+   Perseverance
+   ```
 
 I am versatile and able to perform more than one role within the scope of a single project. Creativity is a core strength, complimentary to my analytical and logical approach to solving problems.
 
