@@ -335,8 +335,13 @@ Prepare project reports for the weekly progress check-in sessions with the Opera
 
 #### Completed Projects in role as Senior BA
 
-* SARS Tariff Management System (2012 to 2013);
-* Import Control System for Customs Office of Luxembourg: ICS (2013 to 2014);
+```
+SARS Tariff Management System (2012 to 2013);
+```
+
+```
+Import Control System for Customs Office of Luxembourg: ICS (2013 to 2014);
+```
 
 #### Projects in role as UX-UI Team Coordinator
 
