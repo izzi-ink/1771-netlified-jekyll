@@ -340,14 +340,21 @@ Prepare project reports for the weekly progress check-in sessions with the Opera
 
 #### Projects in role as UX-UI Team Coordinator
 
-* iCBS UI Design Standards and Guidelines (_concluded_);
-* iCBS Living Style Guide, a technical artifact UI Component Explorer (_concluded_);
-* Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (_ongoing_);
-* Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (_ongoing_);
-* Coordinate UI Deliverables for Customs Support Portal (_ongoing_);
-* Usability Test Designs for end-user engagement sessions;
-* User Satisfaction Survey Design;
-* Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (_concluded_). 
+iCBS UI Design Standards and Guidelines (_concluded_);
+
+iCBS Living Style Guide, a technical artifact UI Component Explorer (_concluded_);
+
+Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (_ongoing_);
+
+Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (_ongoing_);
+
+Coordinate UI Deliverables for Customs Support Portal (_ongoing_);
+
+Usability Test Designs for end-user engagement sessions;
+
+User Satisfaction Survey Design;
+
+Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (_concluded_). 
 
 #### Projects in role as Enterprise Business Analyst and in Project Management
 
