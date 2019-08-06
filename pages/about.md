@@ -16,11 +16,11 @@ I am looking for an opportunity where my design thinking, technical and analytic
 
 ## Strengths
 
-- Versatility
-- Creativity
-- Analytical
-- Love of Learning
-- Perseverance
+1. Versatility
+2. Creativity
+3. Analytical
+4. Love of Learning
+5. Perseverance
 
 I am versatile and able to perform more than one role within the scope of a single project. Creativity is a core strength, complimentary to my analytical and logical approach to solving problems.
 
@@ -69,9 +69,9 @@ While I have a keen interest in all matters related to architecture, I have focu
 
 To future proof my career, I am keen to complete a few short courses or diplomas in Human Computer Interaction and or Design Thinking. I am particularly interested in the impact of AI on UX, and am keen to look at human interaction with machine intelligence.
 
----
+- - -
 
-## Formal Education 
+## Formal Education
 
 ### **Bachelor of Arts**
 
@@ -82,7 +82,7 @@ To future proof my career, I am keen to complete a few short courses or diplomas
 Studies focused mainly on psychology, visual communication, perception and languages. This degree prepared me for a career in IT as Business Analyst insofar as acting as a communications bridge between business and technical teams are concerned.
 It is particularly useful in the UX Discipline.
 
----
+- - -
 
 ## Short Courses and Online Learning: 2000 to 2019
 
@@ -160,7 +160,7 @@ In conjunction with my studies in Psychology it has equipped me with the skills 
 
 This hands-on course, presented by Kwelenga, provided practical workshop scenarios to apply conflict resolution, assertiveness and leading with empathy.
 
----
+- - -
 
 ## Work Experience
 
@@ -211,25 +211,25 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 
 #### Completed Projects in role as Senior BA
 
- * SARS Tariff Management System (2012 to 2013);
- * Import Control System for Customs Office of Luxembourg: ICS (2013 to 2014);
+* SARS Tariff Management System (2012 to 2013);
+* Import Control System for Customs Office of Luxembourg: ICS (2013 to 2014);
 
 #### Projects in role as UX-UI Team Coordinator
 
- * iCBS UI Design Standards and Guidelines (*concluded*);
- * iCBS Living Style Guide, a technical artifact UI Component Explorer (*concluded*);
- * Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (*ongoing*);
- * Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (*ongoing*);
- * Coordinate UI Deliverables for Customs Support Portal (*ongoing*);
- * Usability Test Designs for end-user engagement sessions;
- * User Satisfaction Survey Design;
- * Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (*concluded*). 
+* iCBS UI Design Standards and Guidelines (_concluded_);
+* iCBS Living Style Guide, a technical artifact UI Component Explorer (_concluded_);
+* Coordinate UI Deliverables for Registration Licensing and Accreditation System Solution (_ongoing_);
+* Coordinate UI Deliverables for Reporting of Conveyances and Goods System Solution (_ongoing_);
+* Coordinate UI Deliverables for Customs Support Portal (_ongoing_);
+* Usability Test Designs for end-user engagement sessions;
+* User Satisfaction Survey Design;
+* Facilitator: end-user engagement workshop sessions for SARS Case Management software solution (_concluded_). 
 
 #### Projects in role as Enterprise Business Analyst and in Project Management
 
-* Intern Program Design (*Lead and ongoing consultant*);
-* UX-UI Design System (*Product Owner*);
-* Organisational Competency Framework (*Project Manager for Skills Framework Initiative*);
+* Intern Program Design (_Lead and ongoing consultant_);
+* UX-UI Design System (_Product Owner_);
+* Organisational Competency Framework (_Project Manager for Skills Framework Initiative_);
 
 #### Active Projects as UX-UI Team Coordinator
 
@@ -238,7 +238,7 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 * Customs Trader Portal: Registration Licensing and Accreditation;
 * Customs Operations Portal: Reporting and Conveyances of Goods;
 * Customs Support Portal;
-  
+
 #### Skills used at Interfront:
 
 #### Analysis Design and Architecture
@@ -248,41 +248,41 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 * Low-fidelity UI Design: Wireframes;
 * High-fidelity Prototypes: Adobe XD Detail Design;
 * Workshop facilitation;
-  
+
 #### Software Engineering and Programming Skills
 
-* HTML5; (*proficient*)
-* CSS3; (*competent*)
-* Bootstrap; (*novice*)
-* AngularJS; (*novice*)
-* Angular 5.2.5 (*beginner*)
-* SPA Design (*General Understanding and Architecture*)
-* Java; (*Coaching and Mentoring Graduate Interns in Java Fundamentals*) 
-* REST API Design using Swagger (*Investigating tool to assist Back-end Dev Teams with API Design*)
-* Spring Boot (*coaching Graduate Interns in collaboration with Development Team Leads*)
-* NodeJS (*beginner*)
-* Modern Web Front-end tools (*Solid understanding of Task Runners, Package Managers and Test Suites*)
+* HTML5; (_proficient_)
+* CSS3; (_competent_)
+* Bootstrap; (_novice_)
+* AngularJS; (_novice_)
+* Angular 5.2.5 (_beginner_)
+* SPA Design (_General Understanding and Architecture_)
+* Java; (_Coaching and Mentoring Graduate Interns in Java Fundamentals_) 
+* REST API Design using Swagger (_Investigating tool to assist Back-end Dev Teams with API Design_)
+* Spring Boot (_coaching Graduate Interns in collaboration with Development Team Leads_)
+* NodeJS (_beginner_)
+* Modern Web Front-end tools (_Solid understanding of Task Runners, Package Managers and Test Suites_)
 
 #### Tools and Technology
 
-* Sparx Enterprise Architect (*I used it for UML Modeling*);
-* Atlassian Product Suite (*JIRA, Confluence and Stash for Git*);
-* Balsamiq (*I occasionally use it for the creation of wireframes*);
-* Adobe XD; (*I use it to review and clean-up high-fidelity design mock-ups*);
-* Sketch (*reviewing as Adobe XD alternative for design and prototyping*);
-* Git (*I actively use Git for version control, we use the Git Flow process*);
-* IntelliJ (*Occasionally use as IDE when reviewing code*);
-* VS Code (*My preferred IDE, for writing HTML, CSS and JS and MarkDown, previously used Atom*);
+* Sparx Enterprise Architect (_I used it for UML Modeling_);
+* Atlassian Product Suite (_JIRA, Confluence and Stash for Git_);
+* Balsamiq (_I occasionally use it for the creation of wireframes_);
+* Adobe XD; (_I use it to review and clean-up high-fidelity design mock-ups_);
+* Sketch (_reviewing as Adobe XD alternative for design and prototyping_);
+* Git (_I actively use Git for version control, we use the Git Flow process_);
+* IntelliJ (_Occasionally use as IDE when reviewing code_);
+* VS Code (_My preferred IDE, for writing HTML, CSS and JS and MarkDown, previously used Atom_);
 
 #### Thought Leadership
 
 * Graduate Intern Program Design;
-* IntelliLab (*Hobby club, for MAKERS, 3D Printing, Arduino and RasberriPi tinkering*);
+* IntelliLab (_Hobby club, for MAKERS, 3D Printing, Arduino and RasberriPi tinkering_);
 * Skills Framework initiative; 
 * Business process improvement;
 * Developer and Design Advocate: Emerging technology monitoring;
 
-#### Soft skills used at Interfront 
+#### Soft skills used at Interfront
 
 * Mentoring and Coaching;
 * Workshop facilitation;
@@ -295,16 +295,16 @@ This role is not one that is strictly affiliated with UX-UI, but the output is v
 
 #### Personal learning and R&D initiatives
 
- * CRUD app with Apollo, GraphQL, NodeJs, Express, MongoDB;
- * React;
- * VUE;
- * ES6: JS Refresher Courses;
- * TypeScript;
- * SVG Animation; 
- * StoryBook for Angular;
- * Jest/Puppeteer.
+* CRUD app with Apollo, GraphQL, NodeJs, Express, MongoDB;
+* React;
+* VUE;
+* ES6: JS Refresher Courses;
+* TypeScript;
+* SVG Animation; 
+* StoryBook for Angular;
+* Jest/Puppeteer.
 
----
+- - -
 
 ## Senior Analyst, CSIR
 
@@ -329,7 +329,7 @@ At my own initiative I worked on a strategy for the CSIR that pertain to the man
 * Documentation of the as-is Architecture for the ICT Applications domain;
 * Modeling the improved Service Management processes in BPMN.
 
- #### Skills applied at the CSIR
+#### Skills applied at the CSIR
 
 * Skills Framework assessment;
 * UML Modeling;
@@ -357,7 +357,7 @@ At my own initiative I worked on a strategy for the CSIR that pertain to the man
 * Training and development;
 * Learning and development management. 
 
----
+- - -
 
 ## Business / Systems Analyst and Technical Consultant
 
@@ -388,7 +388,7 @@ I subsequently delivered: Business Requirement Specification and a complete Busi
 * CSIR in Pretoria offered me a position as Senior Systems Analyst;
 * Commute between Johannesburg and Pretoria was time-consuming
 
----
+- - -
 
 ## Web Development Manager and Systems Analyst
 
@@ -480,7 +480,7 @@ I was appointed as Systems Analyst and subsequently promoted to Web Development 
 
 * Head-hunted by Interfront to work as Analyst and Technology Consultant
 
----
+- - -
 
 ## Java Developer and Systems Analyst
 
@@ -545,7 +545,7 @@ Primary Interface Designer and Developer for Online Billing Solutions. Was also 
 * Project Management;
 * Stakeholder relationship management;
 * Training and development;
-*  Learning and development management. 
+* Learning and development management. 
 
 #### Software Tools and Technologies used:
 
@@ -560,7 +560,7 @@ Primary Interface Designer and Developer for Online Billing Solutions. Was also 
 * Career Growth ;
 * Exciting Opportunity presented itself in the Media Industry.
 
----
+- - -
 
 ## Java Developer and Analyst
 
@@ -653,7 +653,7 @@ I subsequently was exposed to Middleware Development as my Development skills gr
 * UNIX
 * Suse Linux
 
- #### Programming and Markup Languages Used:
+#### Programming and Markup Languages Used:
 
 * General ECMA 6026 Scripting Languages
 * Macromedia Flash ActionScript 1.0 
@@ -755,7 +755,7 @@ I was responsible for the development and design of web application interface de
 * Corel Xara
 * MS Office
 
- #### Programming and Markup Languages Used while working at Intervate:
+#### Programming and Markup Languages Used while working at Intervate:
 
 * HTML 
 * CSS
@@ -768,7 +768,7 @@ I was responsible for the development and design of web application interface de
 * Macromedia Flash ActionScript 2.0
 * General OOP and introduction to C#
 
----
+- - -
 
 ## Web Developer and Designer
 
@@ -816,7 +816,7 @@ I was chiefly responsible for the development and design of web sites and interf
 
 #### MIH Project 4: DSTV's KykNet Website
 
- A rich multimedia website for the launch of the Afrikaans TV channel on DSTV**
+ A rich multimedia website for the launch of the Afrikaans TV channel on DSTV\*\*
 
 * Liaising with the Marketing Manager of DSTV's Kyknet Channel
 * Design and Development of the website
@@ -937,7 +937,7 @@ Quantity Surveying Software for SME Building Contractors
 * Design and Preparation of all print based marketing collateral
 * Design and Preparation of all online and multimedia related marketing material
 
- #### Billcad Holdings Project 2: E-Spec:
+#### Billcad Holdings Project 2: E-Spec:
 
 An online Web Application for SME Builders and Quantity Surveyors
 
@@ -958,7 +958,7 @@ An online Web Application Software System for Estate Agents
 * Design and Preparation of all print based marketing collateral
 * Design and Preparation of all online and multimedia related marketing material
 
- #### Billcad Holdings Project 4: 
+#### Billcad Holdings Project 4:
 
 Interpage: Template based solution for uploading basic websites. 
 
@@ -996,7 +996,7 @@ Aimed at Estate Agents and Property Developers
 * Internal Corporate Marketing Skills
 * Introduction to Technical writing in the form of User Guides and documentation writing
 
- #### Software Applications used while working at Billcad Holdings:
+#### Software Applications used while working at Billcad Holdings:
 
 * Microsoft FrontPage, used in HTML editing and Website maintenance
 * Allaire Home Site, used in HTML editing and Website maintenance
@@ -1015,7 +1015,7 @@ Aimed at Estate Agents and Property Developers
 * Macromedia Director's Lingo Scripting Language
 * ActiveX Scripting
 
----
+- - -
 
 ## Career Activities,  Awards and Commendable Activities
 
@@ -1026,7 +1026,7 @@ Aimed at Estate Agents and Property Developers
 * Telkom Name in Lights Award, 2007
 * Mentor-Intern, CSIR Knowledge Workshop Initiative, 2009.
 
----
+- - -
 
 ## References
 
@@ -1091,37 +1091,37 @@ Ryan and I have worked together at Interfront for the past 14 months. Ryan can c
 
 More recommendations are available on my LinkedIn profile.
 
-- [Ilze on LinkedIn](https://www.linkedin.com/in/ilzekoning/)
+* [Ilze on LinkedIn](https://www.linkedin.com/in/ilzekoning/)
 
 ### Analyst / Technology Consultant at Intervate
 
- “Ilze is a highly motivated and dedicated person with extensive skills in the information technology space.. She excels at every task and is a pleasure to work with. An asset to any team!” *August 5, 2010*
+ “Ilze is a highly motivated and dedicated person with extensive skills in the information technology space.. She excels at every task and is a pleasure to work with. An asset to any team!” _August 5, 2010_
 
-- Wilhelm Van Rensburg *, Director , Intervate* managed Ilze at Intervate
+* Wilhelm Van Rensburg _, Director , Intervate_ managed Ilze at Intervate
 
-“Ilze’s approach to analysis is very mature, and the results are detailed and well presented! She benefits any team who appreciates the value of good analysis.” *February 4, 2009*
+“Ilze’s approach to analysis is very mature, and the results are detailed and well presented! She benefits any team who appreciates the value of good analysis.” _February 4, 2009_
 
-- Shaun Dicker, Executive Manager: Delivery , Intervate Solutions (Pty) Ltd (managed Ilze indirectly at Intervate).
+* Shaun Dicker, Executive Manager: Delivery , Intervate Solutions (Pty) Ltd (managed Ilze indirectly at Intervate).
 
 ### Web Design and Development at Billcad Holdings
 
-“I've known Ilze for more that 15 years now and have worked with her on several projects She has excelent knowledge of Software architecture technologies: UML , design patterns, OO methodology, RUP.... and knows just about everything there is to know about web page layout CSS, HTML and graphical design for the web. She is also a proficient Java and Java script programmer and is comfortable with all the bits and pieces that one need to build complex web-enable apps e.g. databases, TCPIP etc. I've not know her to quit once she put here mind on doing something,” *September 23, 2007*
+“I've known Ilze for more that 15 years now and have worked with her on several projects She has excelent knowledge of Software architecture technologies: UML , design patterns, OO methodology, RUP.... and knows just about everything there is to know about web page layout CSS, HTML and graphical design for the web. She is also a proficient Java and Java script programmer and is comfortable with all the bits and pieces that one need to build complex web-enable apps e.g. databases, TCPIP etc. I've not know her to quit once she put here mind on doing something,” _September 23, 2007_
 
-- Max Robbertze, *Development Manager , Billcad Holdings*
+* Max Robbertze, _Development Manager , Billcad Holdings_
 
 ### Web Development Manager at Avusa
 
-“Ilze, tasked with implementing the redesign of BDFM's financial publication websites, tackled them with gusto. She frequently went the extra mile and brought her team along with her in the process. She's dedicated, helpful, analytical and resourceful team player and leader. I sincerely hope I have the opportunity to work with her again in the not too distant future.” *December 12, 2008*
+“Ilze, tasked with implementing the redesign of BDFM's financial publication websites, tackled them with gusto. She frequently went the extra mile and brought her team along with her in the process. She's dedicated, helpful, analytical and resourceful team player and leader. I sincerely hope I have the opportunity to work with her again in the not too distant future.” _December 12, 2008_
 
-- Terry Shapiro, *New Business Development Manager*, BDFM Publishers
+* Terry Shapiro, _New Business Development Manager_, BDFM Publishers
 
 ### Web Developer at News24
 
-“When I worked with Ilze ten years ago she was one of a kind. It was early days in web development in South Africa and in Naspers. Ilze was a crucial player in the early development of News24 when the demand was for 24/7 news and the competion [sic] was tough. She worked extremely hard and long hours to make things work and delivered quality products timeously. She was a huge asset to have on board.” *January 4, 2009*
+“When I worked with Ilze ten years ago she was one of a kind. It was early days in web development in South Africa and in Naspers. Ilze was a crucial player in the early development of News24 when the demand was for 24/7 news and the competion \[sic] was tough. She worked extremely hard and long hours to make things work and delivered quality products timeously. She was a huge asset to have on board.” _January 4, 2009_
 
-- Arrie Rossouw: *Publisher, News24* managed Ilze at News24
+* Arrie Rossouw: _Publisher, News24_ managed Ilze at News24
 
----
+- - -
 
 ## More about me
 
@@ -1132,4 +1132,4 @@ Sometimes I write down stories which unfold from the fantasy worlds I dream up.
 
 Once in a while I enjoy socialising with a few good friends by taking part in fantasy themed role-playing game campaigns, (think Dungeons and Dragons).
 
----
+- - -
