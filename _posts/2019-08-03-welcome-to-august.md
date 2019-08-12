@@ -1,28 +1,34 @@
 ---
 layout: post
-title: Architecture and Design!
+title: Part 1 You're my Hero!
 author: ilze_koning
 date: '2019-08-03 12:00:00'
-categories: misc
+intro_paragraph: >-
+  Once upon a time there was a user, who was the Hero in your story. The Hero
+  died. The End. How do we ensure that we are in control of what happens to the
+  heroes, our users, in the products we design for their user stories?
+categories: design
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Joseph Campbell is best known for his book: The Hero with a Thousand Faces (1949), which George Lucas credited as influencing his Star Wars saga. Google the hero's journey and you will find many diagrams that map the journey of the archetypal hero found in world myths. In short, the journey consists of 3 main stages:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. Departure
 
-Jekyll also offers powerful support for code snippets:
+2. Initiation
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+3. Return
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+As designers responsible for responding to the pitfalls of adventures, which our heroes, the users take part in, how much power do we yield over how our users end up being the heroes they were destined to be?
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+In this blog post series, I will share why I consider Joseph Campbell's work as highly relevant as we design and develop complex systems for people who need to feel like heroes. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Ordinary World
+
+1. The Call to Adventure
+2. Cross the First Threshold
+3. Trials, Friends and Foes
+4. Magical Mentor (or the Mentor with Supernatural Aid)
+5. Dragon's Lair
+6. Moment of Despair
+7. Ultimate Treasure
+8. Homeward Bound
+9. Rebirth & The Champion's Return
