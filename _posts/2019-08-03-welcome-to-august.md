@@ -3,7 +3,9 @@ layout: post
 title: Part 1 You're my Hero!
 author: ilze_koning
 date: '2019-08-03 12:00:00'
-intro_paragraph: How do architect solutions in order to make every user a hero of their story?
+intro_paragraph: >-
+  How do we architect solutions in such a way, to turn our users into heroes on
+  their respective journeys?
 categories: design
 ---
 George Lucas credited Joseph Campbell's The Hero with a Thousand Faces (1949), as influencing his Star Wars saga. Can the hero's journey equally influence and inspire UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
