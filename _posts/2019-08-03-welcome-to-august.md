@@ -9,11 +9,15 @@ intro_paragraph: >-
   heroes, our users, in the products we design for their user stories?
 categories: design
 ---
-Joseph Campbell is best known for his book: The Hero with a Thousand Faces (1949). George Lucas credited Campbell's work as influencing his Star Wars saga. But is it possible that Campbell's work can influence and inspire  UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
+George Lucas credited Joseph Campbell's The Hero with a Thousand Faces (1949), as influencing his Star Wars saga. Can the hero's journey equally influence and inspire UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
+
+## We have power
 
 Let's be mindful of the power we yield over the adventures (the stories) our heroes, the users experience as they interact with the systems we design and build. 
 
 In short, the Hero's Journey consists of 3 main stages: departure, initiation and return, which Campbell further deconstructs in roughly 10 detailed steps.
+
+## 10 Detailed Steps
 
 1. The Ordinary World
 2. The Call to Adventure
@@ -25,5 +29,7 @@ In short, the Hero's Journey consists of 3 main stages: departure, initiation an
 8. Ultimate Treasure
 9. Homeward Bound
 10. Rebirth & The Champion's Return
+
+## Our Responsibility
 
 In this series of blog posts, I'd like to consider each step, as helpful reminder of our approach and its influence on our methodology for designing products that turn ordinary users into heroes!
