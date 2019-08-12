@@ -25,3 +25,5 @@ In short, the Hero's Journey consists of 3 main stages: departure, initiation an
 8. Ultimate Treasure
 9. Homeward Bound
 10. Rebirth & The Champion's Return
+
+In this series of blog posts, I'd like to consider each step, as helpful reminder of our approach and its influence on our methodology for designing products that turn ordinary users into heroes!
