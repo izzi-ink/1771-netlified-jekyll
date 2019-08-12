@@ -9,26 +9,25 @@ intro_paragraph: >-
   heroes, our users, in the products we design for their user stories?
 categories: design
 ---
-Joseph Campbell is best known for his book: The Hero with a Thousand Faces (1949), which George Lucas credited as influencing his Star Wars saga. Google the hero's journey and you will find many diagrams that map the journey of the archetypal hero found in world myths. In short, the journey consists of 3 main stages:
+Joseph Campbell is best known for his book: The Hero with a Thousand Faces (1949). George Lucas credited Campbell's work as influencing his Star Wars saga. But is it possible that Campbell's work is relevant to UX Design and Solutions Architecture? The obvious analogy, the hero's journey for Campbell, is like the user journey in software design. But I suspect it is more subtle, more nuanced and deeper. 
+
+In short, the Hero's Journey consists of 3 main stages:
 
 1. Departure
-
-2. Initiation
-
+2. Initiation and
 3. Return
 
-As designers responsible for responding to the pitfalls of adventures, which our heroes, the users take part in, how much power do we yield over how our users end up being the heroes they were destined to be?
+How much power do we yield over the adventures (the stories) our heroes, the users experience as they interact with the systems we design and build for them?
 
 In this blog post series, I will share why I consider Joseph Campbell's work as highly relevant as we design and develop complex systems for people who need to feel like heroes. 
 
-The Ordinary World
-
-1. The Call to Adventure
-2. Cross the First Threshold
-3. Trials, Friends and Foes
-4. Magical Mentor (or the Mentor with Supernatural Aid)
-5. Dragon's Lair
-6. Moment of Despair
-7. Ultimate Treasure
-8. Homeward Bound
-9. Rebirth & The Champion's Return
+1. The Ordinary World
+2. The Call to Adventure
+3. Cross the First Threshold
+4. Trials, Friends and Foes
+5. Magical Mentor (or the Mentor with Supernatural Aid)
+6. Dragon's Lair
+7. Moment of Despair
+8. Ultimate Treasure
+9. Homeward Bound
+10. Rebirth & The Champion's Return
