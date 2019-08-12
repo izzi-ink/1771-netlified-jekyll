@@ -18,18 +18,25 @@ In short, the Hero's Journey consists of 3 main stages: departure, initiation an
 
 ## 10 Detailed Steps
 
-1. > The Ordinary World
-2. > The Call to Adventure
-3. > Cross the First Threshold
-4. > Trials, Friends and Foes
-5. > Magical Mentor (or the Mentor with Supernatural Aid)
-6. > Dragon's Lair
-7. > Moment of Despair
-8. > Ultimate Treasure
-9. > Homeward Bound
-10. > Rebirth & The Champion's Return.
-
-
+> 1. The Ordinary World
+>
+> 2. The Call to Adventure
+>
+> 3. Cross the First Threshold
+>
+> 4. Trials, Friends and Foes
+>
+> 5. Magical Mentor (or the Mentor with Supernatural Aid)
+>
+> 6. Dragon's Lair
+>
+> 7. Moment of Despair
+>
+> 8. Ultimate Treasure
+>
+> 9. Homeward Bound
+>
+> 10. Rebirth & The Champion's Return.
 
 ## Our Responsibility
 
