@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Izzi Design System
+title: Ilze Koning
 email: izzikoning@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a highly experimental site. To test-drive Netlify and tell the world about what I do.
