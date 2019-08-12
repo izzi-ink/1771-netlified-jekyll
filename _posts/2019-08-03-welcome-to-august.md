@@ -1,28 +1,29 @@
 ---
 layout: post
-title: Architecture and Design!
+title: Part 1 You're my Hero!
 author: ilze_koning
 date: '2019-08-03 12:00:00'
-categories: misc
+intro_paragraph: >-
+  Once upon a time there was a user, who was the Hero in your story. The Hero
+  died. The End. How do we ensure that we are in control of what happens to the
+  heroes, our users, in the products we design for their user stories?
+categories: design
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Joseph Campbell is best known for his book: The Hero with a Thousand Faces (1949). George Lucas credited Campbell's work as influencing his Star Wars saga. But is it possible that Campbell's work can influence and inspire  UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Let's be mindful of the power we yield over the adventures (the stories) our heroes, the users experience as they interact with the systems we design and build. 
 
-Jekyll also offers powerful support for code snippets:
+In short, the Hero's Journey consists of 3 main stages: departure, initiation and return, which Campbell further deconstructs in roughly 10 detailed steps.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+1. The Ordinary World
+2. The Call to Adventure
+3. Cross the First Threshold
+4. Trials, Friends and Foes
+5. Magical Mentor (or the Mentor with Supernatural Aid)
+6. Dragon's Lair
+7. Moment of Despair
+8. Ultimate Treasure
+9. Homeward Bound
+10. Rebirth & The Champion's Return
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this series of blog posts, I'd like to consider each step, as helpful reminder of our approach and its influence on our methodology for designing products that turn ordinary users into heroes!
