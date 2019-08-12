@@ -3,10 +3,7 @@ layout: post
 title: Part 1 You're my Hero!
 author: ilze_koning
 date: '2019-08-03 12:00:00'
-intro_paragraph: >-
-  Once upon a time there was a user, who was the Hero in your story. The Hero
-  died. The End. How do we ensure that we are in control of what happens to the
-  heroes, our users, in the products we design for their user stories?
+intro_paragraph: How do architect solutions in order to make every user a hero of their story?
 categories: design
 ---
 George Lucas credited Joseph Campbell's The Hero with a Thousand Faces (1949), as influencing his Star Wars saga. Can the hero's journey equally influence and inspire UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
@@ -19,16 +16,18 @@ In short, the Hero's Journey consists of 3 main stages: departure, initiation an
 
 ## 10 Detailed Steps
 
-1. The Ordinary World
-2. The Call to Adventure
-3. Cross the First Threshold
-4. Trials, Friends and Foes
-5. Magical Mentor (or the Mentor with Supernatural Aid)
-6. Dragon's Lair
-7. Moment of Despair
-8. Ultimate Treasure
-9. Homeward Bound
-10. Rebirth & The Champion's Return
+1. > The Ordinary World
+2. > The Call to Adventure
+3. > Cross the First Threshold
+4. > Trials, Friends and Foes
+5. > Magical Mentor (or the Mentor with Supernatural Aid)
+6. > Dragon's Lair
+7. > Moment of Despair
+8. > Ultimate Treasure
+9. > Homeward Bound
+10. > Rebirth & The Champion's Return.
+
+
 
 ## Our Responsibility
 
