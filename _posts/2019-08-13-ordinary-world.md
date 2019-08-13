@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1 You're my Hero!
+title: Part 2 The Ordinary World
 author: ilze_koning
 date: '2019-08-03 12:00:00'
 intro_paragraph: >-
