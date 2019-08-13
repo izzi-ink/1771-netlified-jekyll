@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ordinary World of The Hero
-author: john_doe
+author: dan_urbanowicz
 date: '2019-08-13 12:05:01'
 intro_paragraph: >-
   Let's look beyond the hero's journey and learn about the ordinary world of the
