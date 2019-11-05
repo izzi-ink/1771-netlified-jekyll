@@ -15,6 +15,8 @@ There is an ordinary world that gives context to a person who sits in front of a
 
 This human, from an ordinary world, has all the pain and joy and complexities that you and I experience daily. For the office admin worker, our system is the device through which she serves the person shouting at her for service that is taking too long. For a financial advisor, our systems hold the key to decisions that are made that impact people's wealth and their future. 
 
+![](/assets/img/uploads/izzi-map.jpg)
+
 Let's then, before we embark on simply writing a user story, plotting a user journey, be mindful of the ordinary world with its struggles and ordinarity the person at the end of your system, come from. Can we transform their lives by how we design? 
 
 In our next blog post, we'll discover how Campbell's second step, calls us to adventure!
