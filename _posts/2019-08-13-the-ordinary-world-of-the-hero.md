@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ordinary World of The Hero
-author: john_doe
+author: dan_urbanowicz
 date: '2019-08-13 12:05:01'
 intro_paragraph: >-
   Let's look beyond the hero's journey and learn about the ordinary world of the
@@ -14,6 +14,8 @@ However, I agree with the sentiement Adam expresses. Users, human beings, are co
 There is an ordinary world that gives context to a person who sits in front of a system and interacts with it. This human, this life form, this person, will never completely fit the mold we try to hold a persona for a story in. This human interacting with our technology has hopes, fears and dreams.
 
 This human, from an ordinary world, has all the pain and joy and complexities that you and I experience daily. For the office admin worker, our system is the device through which she serves the person shouting at her for service that is taking too long. For a financial advisor, our systems hold the key to decisions that are made that impact people's wealth and their future. 
+
+![](/assets/img/uploads/izzi-map.jpg "The road goes ever on and on for our heroes and their journeys")
 
 Let's then, before we embark on simply writing a user story, plotting a user journey, be mindful of the ordinary world with its struggles and ordinarity the person at the end of your system, come from. Can we transform their lives by how we design? 
 
